@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "default": "en_US",
+    "translations": {
+        "en_US": {
+            "name": "English (US)",
+            "file": "en_US.json"
+        }
+    }
+}
