@@ -1,4 +1,5 @@
 {
+    "NOTIFICATION_WELCOME_TEXT": "Loaded YimMenu. Press {} to open",
     "NOTIFICATION_WELCOME_TITLE": "Welcome",
-    "NOTIFICATION_WELCOME_TEXT": "Loaded YimMenu. Press {} to open"
+	"HEADING_WELCOME": "Welcome"
 }
