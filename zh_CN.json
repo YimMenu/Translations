@@ -1,3 +1,5 @@
+#翻译 baicha1238#9134 sch#0864
+#特别感谢 Aure#5964 locoalhost-A
 {
     "NOTIFICATION_WELCOME_TEXT": "YimMenu 已加载. 请按 {} 打开菜单",
     "NOTIFICATION_WELCOME_TITLE": "欢迎",
@@ -81,7 +83,6 @@
     "EXPLOSION_KARMA": "爆炸因果（反弹爆炸）",
     "DAMAGE_KARMA": "伤害因果（反弹伤害）",
     "FORCE": "强制",
-
     "KILL_ALL": "杀掉每一个人",
     "EXPLODE_ALL": "爆炸每一个人",
     "INCLUDING_YOU": "包括你在内",
@@ -402,7 +403,7 @@
     "NETWORK": "网络",
     "NEVER_WANTED": "永不通缉",
     "NO_IDLE_KICK": "挂机防踢",
-    "NO_STORED_PLAYERS": "没有玩家记录",
+    "NO_STORED_PLAYERS": "没有已记录的玩家",
     "NO": "无",
     "OFF_THE_RADAR": "人间蒸发",
     "ONLY_AS_HOST": "作为战局主机生效",
@@ -577,7 +578,7 @@
     "BLOCK_RID_JOINING_DESCRIPTION": "这将阻止任何试图通过你的 Rockstar ID 加入到你所在战局的人，包括你的好友",
     "LESSEN_BREAKUP_KICK": "作为战局主机减少分离踢",
     "LESSEN_BREAKUP_KICK_DESCRIPTION": "攻击者必须在成为主机后加入才能工作。此功能存在反作弊问题",
-	"LOG": "日志",
+    "LOG": "日志",
     "NOTIFY": "通知",
     "REACTION_CHAT": "通知在聊天当中",
     "REACTION_ADD_TO_DATABASE": "添加玩家到数据库",
