@@ -548,7 +548,7 @@
     "SETTINGS_ESP_ENEMY_CLOSE_COLOR": "敌人接近颜色:",
     "SETTINGS_ESP_ENEMY_NEAR_COLOR": "敌人颜色:",
     "SETTINGS_ESP_ENEMY_DEFAULT_COLOR": "默认颜色:",
-    "SETTINGS_ESP_FRIENDLY_COLOR": "友好颜色:",
+    "SETTINGS_ESP_FRIENDLY_COLOR": "好友颜色:",
     "SETTINGS_UI_SCALE": "UI缩放",
     "APPLY": "应用",
     "SETTINGS_UI_SCALE_DESCRIPTION": "更改UI比例可能会破坏渲染并需要您再次重新注入YimMenu.",
