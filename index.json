@@ -9,6 +9,10 @@
         "nl_BE": {
             "name": "Dutch (BE)",
             "file": "nl_BE.json"
+        },
+		        "ru_RU": {
+            "name": "Russian (RU)",
+            "file": "ru_RU.json"
         }
     }
 }
