@@ -13,6 +13,10 @@
         "zh_CN": {
             "name": "Chinese (CN)",
             "file": "zh_CN.json"
+        },
+        "zh_CN": {
+            "name": "Chinese (TW)",
+            "file": "zh_TW.json"
         }
     }
 }
