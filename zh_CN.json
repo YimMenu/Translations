@@ -666,7 +666,7 @@
     "NETWORK_PLAYER_MGR_INIT": "正在进入战局并初始化玩家数据.",
     "NETWORK_PLAYER_MGR_DESTROY": "正在退出战局并清理玩家数据.",
     "BLOCK_JOIN_INFO": "已阻止 {} 加入战局",
-    "PROTECTIONS": "防护选项",
+    "PROTECTIONS": "恶意行为防护",
     "REMOTE_CRASH_INVALID_TRANSITION_FROM": "已阻止来自 {} 的无效的启动战局远程崩溃 {}",
     "REMOTE_CRASH_INVALID_TRANSITION": "已阻止无效的启动战局远程崩溃",
     "REMOTE_CRASH_INVALID_BLACKLIST_FROM": "已阻止来自 {} 的远程无效黑名单崩溃 {}",
