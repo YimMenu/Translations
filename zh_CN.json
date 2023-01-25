@@ -420,7 +420,7 @@
     "PLAYER_INFO_LANGUAGE": "语言: %s",
     "PLAYER_INFO_LAP_DANCES": "购买艳舞: %d",
     "PLAYER_INFO_MC_NAME": "摩托帮名称: %s",
-    "PLAYER_INFO_METLDOWN_COMPLETE": "崩溃完成: %s",
+    "PLAYER_INFO_METLDOWN_COMPLETE": "是否在故事模式完成《崩溃危机》: %s",
     "PLAYER_INFO_MISSIONS_CREATED": "战局创建: %d",
     "PLAYER_INFO_NO_VEHICLE": "未检测到载具",
     "PLAYER_INFO_PROOFS": "玩家证明: %s",
