@@ -646,7 +646,7 @@
     "TELEPORT_NO_SEATS_FREE": "玩家载具中没有空座位.",
     "TELEPORT_NO_WAYPOINT_SET": "无法找到导航点.",
     "TELEPORT_NO_OBJECTIVE": "无法找到目标点",
-    "MODIFY_TIME": "修改天气",
+    "MODIFY_TIME": "修改时间",
     "WARP_TIME_TITLE": "控制时间流逝",
     "MODIFY_TIME_HOST_REQUIRED": "战局主机才能修改时间",
     "MODIFY_TIME_NO_PLAYER_TIMESTAMP": "目前无法找到玩家的时间戳",
