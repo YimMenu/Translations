@@ -6,10 +6,6 @@
             "name": "English (US)",
             "file": "en_US.json"
         },
-        "nl_BE": {
-            "name": "Dutch (BE)",
-            "file": "nl_BE.json"
-        },
         "zh_CN": {
             "name": "Chinese (CN)",
             "file": "zh_CN.json"
