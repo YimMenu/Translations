@@ -1,5 +1,6 @@
 {
-    "NOTIFICATION_WELCOME_TEXT": "Loaded YimMenu. Press {} to open",
+    "NO_COLLISION": "No Collision",
+	"NOTIFICATION_WELCOME_TEXT": "Loaded YimMenu. Press {} to open",
     "NOTIFICATION_WELCOME_TITLE": "Welcome",
     "HEADING_WELCOME": "Welcome",
     "SCAPI": "SCAPI",
