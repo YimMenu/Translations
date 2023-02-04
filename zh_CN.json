@@ -1,8 +1,8 @@
 {
     "NOTIFICATION_WELCOME_TEXT": "YimMenu (PTD)已加载. 请按 {} 打开菜单",
-    "NOTIFICATION_WELCOME_TITLE": "欢迎PTD",
+    "NOTIFICATION_WELCOME_TITLE": "欢迎",
     "NO_COLLISION": "无碰撞",
-    "HEADING_WELCOME": "欢迎PTD",
+    "HEADING_WELCOME": "欢迎",
     "SCAPI": "SCAPI",
     "MSG_SENT_SUCCESS": "信息成功发送",
     "MSG_SENT_FAIL": "信息未能发送. 请检查互联网连接",
