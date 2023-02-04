@@ -312,6 +312,7 @@
     "FORCE_SHOW_HUD_ELEMENT": "Force show HUD element",
     "FORCE_SHOW_HUD": "Force show HUD",
     "FORCE_WANTED_LVL": "Force Wanted Level",
+    "FORCE_WANTED_LVL_INFO": "Force Others or Yourself into a specific Wanted Level",
     "FREEZE_LOOP": "Freeze Loop",
     "GAME_CACHE_DONT_CARE": "I don't care, update in single player!",
     "GAME_CACHE_GO_ONLINE": "Update cache in online.",

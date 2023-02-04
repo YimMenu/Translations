@@ -311,6 +311,7 @@
     "FORCE_SHOW_HUD_ELEMENT": "强制显示HUD元素",
     "FORCE_SHOW_HUD": "强制显示HUD",
     "FORCE_WANTED_LVL": "强制悬赏等级",
+    "FORCE_WANTED_LVL_INFO": "强制自己获得一个特定的悬赏等级",
     "FREEZE_LOOP": "冻结循环",
     "GAME_CACHE_DONT_CARE": "强制更新！",
     "GAME_CACHE_GO_ONLINE": "进入线上模式后更新.",
