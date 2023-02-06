@@ -1,4 +1,11 @@
 {
+    "custom_labels": {
+        "GC_OTR_TMR": "HIDING FROM CLOWNS",
+        "PM_ENTER_MP": "Join GTA Online using YimMenu",
+        "PM_GO": "Go into GTA Online using YimMenu",
+        "PM_FRIEND_FM": "Join a friend using YimMenu",
+        "PM_FIND_SESS": "Find a new GTA Session using YimMenu"
+    },
     "NOTIFICATION_WELCOME_TEXT": "Loaded YimMenu. Press {} to open",
     "NOTIFICATION_WELCOME_TITLE": "Welcome",
     "HEADING_WELCOME": "Welcome",
