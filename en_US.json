@@ -318,6 +318,7 @@
     "GAME_CACHE_UPDATE": "YimMenu requires a rebuild of the game cache. This may take up to one minute to generate.",
     "GAME_CACHE_UPDATING": "Updating cache, please wait...",
     "GAME_CACHE_UPDATE_CACHE": "Update Cache",
+    "GAME_CACHE_WAITING_FOR_SINGLE_PLAYER": "Waiting for single player to be loaded...",
     "GAME_CACHE_WAITING_FOR_ONLINE": "Waiting for online to start cache update...",
     "GAME_CACHE": "Game Cache",
     "GENERAL": "General",
