@@ -682,5 +682,6 @@
     "REMOVE_WEAPON_ATTEMPT": "{} tried to remove a weapon.",
     "REMOVE_ALL_WEAPONS_ATTEMPT": "{} tried to remove all weapons.",
     "WARNING": "Warning!",
-    "BLAMED_FOR_EXPLOSION": "{} blamed {} for explosion"
+    "BLAMED_FOR_EXPLOSION": "{} blamed {} for explosion",
+    "RELOAD_PLYR_ONLINE_STATES": "Reload Player Online States"
 }
