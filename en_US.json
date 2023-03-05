@@ -722,7 +722,7 @@
     "GUI_TAB_PROTECTION": "Protection",
     "GUI_TAB_TRANSLATION": "Translation",
     "GUI_TAB_DEBUG": "Debug",
-    "CMD_EXECUTOR_TITLE": "YimMenu Command Executorr",
+    "CMD_EXECUTOR_TITLE": "YimMenu Command Executor",
     "CMD_EXECUTOR_TYPE_CMD": "Type your command",
     "CMD_EXECUTOR_NO_CMD": "No commands could be found. :(",
     "CMD_EXECUTOR_CMD_TEMPLATE": "{} - {} - {} | {} Args"
