@@ -1,22 +1,22 @@
 {
-  "version": 11,
-  "default_lang": "en_US",
-  "translations": {
-    "en_US": {
-      "name": "English (US)",
-      "file": "en_US.json"
-    },
-    "en_LOL": {
-      "name": "Lolcat",
-      "file": "en_LOL.json"
-    },
-    "zh_CN": {
-      "name": "Chinese (CN)",
-      "file": "zh_CN.json"
-    },
-    "zh_TW": {
-      "name": "Chinese (TW)",
-      "file": "zh_TW.json"
+    "version": 11,
+    "default_lang": "en_US",
+    "translations": {
+        "en_US": {
+            "name": "English (US)",
+            "file": "en_US.json"
+        },
+        "en_LOL": {
+            "name": "Lolcat",
+            "file": "en_LOL.json"
+        },
+        "zh_CN": {
+            "name": "Chinese (CN)",
+            "file": "zh_CN.json"
+        },
+        "zh_TW": {
+            "name": "Chinese (TW)",
+            "file": "zh_TW.json"
+        }
     }
-  }
 }
