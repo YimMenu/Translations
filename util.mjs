@@ -5,7 +5,8 @@ import { exit } from "process"
 /** @type {{changed: string[], errors: string[]}} */
 const res = {
     changed: [],
-    errors: []
+    errors: [],
+    warnings: []
 }
 
 /**
@@ -82,6 +83,10 @@ const validateFunc = (translation) => {
             const paramInfo = validateParams(default_lang[key], translation_obj[key])
             if (paramInfo.source != paramInfo.translation) {
                 res.errors.push(`${translation}[${key}]: incorrect number of parameters (${paramInfo.source}:${paramInfo.translation})`)
+            }
+
+            if (default_lang[key] === translation_obj[key]) {
+                res.warnings.push(`${translation}[${key}]: might be untranslated`)
             }
         }
     }
