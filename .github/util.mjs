@@ -1,3 +1,12 @@
+/**
+ * node .github/util.mjs <command> [file]
+ * file can be a translation file you want to run the <command> against
+ * or a previous index.json to only run the <command> on the new added
+ * translations
+ * 
+ * e.g. node .github/util.mjs validate ./old_version/index.json
+ */
+
 import index from "../index.json" assert { type: "json" }
 import { readFileSync, writeFileSync, existsSync } from "fs"
 import { exit } from "process"
