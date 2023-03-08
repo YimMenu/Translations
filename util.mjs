@@ -101,9 +101,15 @@ if (command === undefined || !commandNames.includes(command)) {
     exit(1)
 }
 
-translations.forEach(translation => {
-    commands[command](translation)
-})
+/** @type {string?} */
+const arg = process.argv[3]
+if (!!arg && translations.includes(arg)) {
+    commands[command](arg)
+} else {
+    translations.forEach(translation => {
+        commands[command](translation)
+    })
+}
 
 console.log(res)
 writeFileSync(".result.json", objToTranslation(res))
