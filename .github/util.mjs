@@ -1,5 +1,5 @@
-import index from "./index.json" assert { type: "json" }
-import { readFileSync, writeFileSync } from "fs"
+import index from "../index.json" assert { type: "json" }
+import { readFileSync, writeFileSync, existsSync } from "fs"
 import { exit } from "process"
 
 /** @type {{changed: string[], errors: string[]}} */
@@ -45,6 +45,30 @@ const default_lang = translationToObj(default_lang_file)
 const translations = Object.values(index.translations).map(x => x.file).filter(x => x != default_lang_file)
 
 /**
+ * Finds new translations based on an old index.json
+ * @param {string} oldTranslationFile The old index.json
+ * @returns {string[]}
+ */
+const newTranslations = (oldTranslationFile) => {
+    if (!existsSync(oldTranslationFile)) return translations
+    const oldTranslations = Object.values(translationToObj(oldTranslationFile).translations).map(x => x.file).filter(x => x != default_lang_file)
+    const uniq = translations.filter(x => !oldTranslations.includes(x))
+
+    if (uniq.length === 0) return translations
+
+    return uniq
+}
+
+/**
+ * Checks if two 1 level objects' keys are the same
+ * @param {object} x First object
+ * @param {object} y Second object
+ * @returns {boolean}
+ */
+const objHasAllKeys = (x, y) => Object.keys(x).length === Object.keys(y).length && Object.keys(x).every(z => y.hasOwnProperty(z))
+
+
+/**
  * Merges (and validates) translations based on the default one,
  * so if keys get removed or added they also do in all the other
  * translations
@@ -65,7 +89,7 @@ const mergeFunc = (translation) => {
         }
     }
 
-    if (Object.keys(res_obj).length !== Object.keys(translation_obj).length) {
+    if (!objHasAllKeys(res_obj, translation_obj)) {
         writeFileSync(translation, objToTranslation(res_obj))
         res.changed.push(translation)
     }
@@ -111,7 +135,7 @@ const arg = process.argv[3]
 if (!!arg && translations.includes(arg)) {
     commands[command](arg)
 } else {
-    translations.forEach(translation => {
+    (!!arg ? newTranslations(arg) : translations).forEach(translation => {
         commands[command](translation)
     })
 }
