@@ -41,13 +41,14 @@ const objToTranslation = (translation_obj) => JSON.stringify(translation_obj, nu
 const count = (str, sub) => str.split(sub).length - 1
 
 /**
- * Checks how many parameters are in source and translations
+ * Checks how many of `pattern` are in source and translations
  * so we can check if they match
  * @param {string} source The source value
  * @param {string} translation The translation value
+ * @param {string} pattern The pattern string to check (default: '{}')
  * @returns {{source: number, translation: number}}
  */
-const validateParams = (source, translation) => { return { source: count(source, "{}"), translation: count(translation, "{}") } }
+const patternCheck = (source, translation, pattern = "{}") => { return { source: count(source, pattern), translation: count(translation, pattern) } }
 
 const default_lang_file = `${index.default_lang}.json`
 const default_lang = translationToObj(default_lang_file)
@@ -76,6 +77,7 @@ const newTranslations = (oldTranslationFile) => {
  */
 const objHasAllKeys = (x, y) => Object.keys(x).length === Object.keys(y).length && Object.keys(x).every(z => y.hasOwnProperty(z))
 
+const patterns = ["{}", "%"]
 
 /**
  * Merges (and validates) translations based on the default one,
@@ -89,10 +91,12 @@ const mergeFunc = (translation) => {
 
     for (let key in translation_obj) {
         if (key in res_obj) {
-            const paramInfo = validateParams(default_lang[key], translation_obj[key])
-            if (paramInfo.source != paramInfo.translation) {
-                res.errors.push(`${translation}[${key}]: incorrect number of parameters (${paramInfo.source}:${paramInfo.translation})`)
-            }
+            patterns.forEach(pattern => {
+                const paramInfo = patternCheck(default_lang[key], translation_obj[key], pattern)
+                if (paramInfo.source != paramInfo.translation) {
+                    res.errors.push(`${translation}[${key}]: incorrect number of \`${pattern}\` found (${paramInfo.source}:${paramInfo.translation})`)
+                }
+            })
 
             res_obj[key] = translation_obj[key];
         }
@@ -113,10 +117,12 @@ const validateFunc = (translation) => {
 
     for (let key in translation_obj) {
         if (key in default_lang) {
-            const paramInfo = validateParams(default_lang[key], translation_obj[key])
-            if (paramInfo.source != paramInfo.translation) {
-                res.errors.push(`${translation}[${key}]: incorrect number of parameters (${paramInfo.source}:${paramInfo.translation})`)
-            }
+            patterns.forEach(pattern => {
+                const paramInfo = patternCheck(default_lang[key], translation_obj[key], pattern)
+                if (paramInfo.source != paramInfo.translation) {
+                    res.errors.push(`${translation}[${key}]: incorrect number of \`${pattern}\` found (${paramInfo.source}:${paramInfo.translation})`)
+                }
+            })
 
             if (default_lang[key] === translation_obj[key]) {
                 res.warnings.push(`${translation}[${key}]: might be untranslated`)
