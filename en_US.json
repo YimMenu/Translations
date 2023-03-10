@@ -725,5 +725,13 @@
     "CMD_EXECUTOR_TITLE": "YimMenu Command Executor",
     "CMD_EXECUTOR_TYPE_CMD": "Type your command",
     "CMD_EXECUTOR_NO_CMD": "No commands could be found. :(",
-    "CMD_EXECUTOR_CMD_TEMPLATE": "{} - {} - {} | {} Args"
+    "CMD_EXECUTOR_CMD_TEMPLATE": "{} - {} - {} | {} Args",
+    "CMD_EXECUTOR_MULTIPLE_CMDS": "You can execute several commands at the same time by separating them with \";\"",
+    "HIDE_FROM_PLAYER_LIST": "Hide From Player List",
+    "SPOOF_BLIP_TYPE": "Spoof Blip Type",
+    "SPOOF_RANK": "Spoof Rank",
+    "SPOOF_KD": "Spoof K/D Ratio",
+    "SPOOF_BADSPORT": "Spoof Badsport State",
+    "SPOOF_JOB_POINTS": "Spoof Job Points",
+    "SPOOF_PLAYER_MODEL": "Spoof Player Model"
 }
