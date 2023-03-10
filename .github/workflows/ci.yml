@@ -17,7 +17,22 @@ jobs:
           path: old
 
       - name: Run util validate
-        run: node .github/util.mjs validate old/index.json
+        run: |
+          node .github/util.mjs validate old/index.json
+          mv .result.json .result.json.validate
+
+      - name: Run util merge
+        continue-on-error: true
+        run: |
+          cmp --silent ./en_US.json ./old/en_US.json || node .github/util.mjs merge
+          [ -f .result.json ] || exit 0
+          cat .result.json
+          mv .result.json .result.json.merge
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ./*.json
+          git commit -m "chore: merge translations" || exit 0
+          git push ${{ github.event.pull_request.head.repo.html_url }} ${{ github.event.pull_request.head.ref }}
 
       - name: Post util validate
         uses: actions/github-script@v6
@@ -25,7 +40,10 @@ jobs:
           script: |
             const fs = require('fs');
             const process = require('process');
-            const result = JSON.parse(fs.readFileSync(".result.json"));
+            const result = JSON.parse(fs.readFileSync(".result.json.validate"));
+            if (fs.existsSync(".result.json.merge")) {
+              result.changed = [...result.changed, ...JSON.parse(fs.readFileSync(".result.json.merge")).changed];
+            }
             if (result.changed?.length === 0 && result.errors?.length === 0 && result.warnings?.length === 0) process.exit(0)
             const {owner, repo} = context.repo;
             const pull_request = ${{ github.event.number }};
@@ -33,45 +51,16 @@ jobs:
               return core.error("This workflow doesn't match any pull requests!");
             }
 
-            const errors = [`
-              > <picture>
-              >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/f4116f5b4a31c72fcfdd5cb9869bb4ae2a2cf4a8/blockquotes/badge/light-theme/error.svg">
-              >   <img alt="Error" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/f4116f5b4a31c72fcfdd5cb9869bb4ae2a2cf4a8/blockquotes/badge/dark-theme/error.svg">
-              > </picture><br>`]
+            const labels = {
+              changed: "info",
+              warnings: "warning",
+              errors: "error"
+            }
 
-            result.errors.forEach(error => {
-              errors.push(`> ${error}`)
-            })
+            const generate_md = (label, results) => results.length > 0 ? `<details><summary><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/f4116f5b4a31c72fcfdd5cb9869bb4ae2a2cf4a8/blockquotes/badge/light-theme/${label}.svg"><img alt="${label}" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/f4116f5b4a31c72fcfdd5cb9869bb4ae2a2cf4a8/blockquotes/badge/dark-theme/${label}.svg"></picture> (${results.length})</summary>\n\n\`\`\`\n${results.join("\n")}\n\`\`\`\n\n</details>` : ""
 
-            const warnings = ["> **Warning**"]
+            let body = [];
+            ["changed", "warnings", "errors"].forEach(x => body.push(generate_md(labels[x], result[x])));
+            body = body.filter(x => x.length > 0);
 
-            result.warnings.forEach(warn => {
-              warnings.push(`> ${warn}`)
-            })
-
-            const infos = ["> **Note**"]
-
-            result.changed.forEach(info => {
-              infos.push(`> ${info}`)
-            })
-
-            const body = `
-              ${infos.length > 1 ? infos.join("\n") : ""}
-
-              ${warnings.length > 1 ? warnings.join("\n") : ""}
-
-              ${errors.length > 1 ? errors.join("\n") : ""}
-            `
-
-            await github.rest.issues.createComment({ owner, repo, issue_number: pull_request, body });
-
-      - name: Run util merge
-        run: |
-          rm .result.json
-          cmp --silent ./en_US.json ./old/en_US.json || node .github/util.mjs merge
-          [ -f .result.json ] || exit 0
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ./*.json
-          git commit -m "chore: merge translations" || exit 0
-          git push
+            await github.rest.issues.createComment({ owner, repo, issue_number: pull_request, body: body.join("\n") });
