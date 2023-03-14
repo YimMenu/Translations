@@ -760,6 +760,7 @@
     "OUTFIT_DEFAULT_COMPONENT": "Default Component",
     "OUTFIT_RANDOM_PROPS": "Random Props",
     "OUTFIT_CLEAR_PROPS": "Clear Props",
+    "OUTFIT": "Outfit",
     "EXPORT_TO_CLIPBOARD": "Export To Clipboard",
     "IMPORT_FROM_CLIPBOARD": "Import From Clipboard",
     " OUTFIT_TEX": " TEX",
