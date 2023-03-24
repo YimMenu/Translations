@@ -17,6 +17,10 @@
         "zh_TW": {
             "name": "Chinese (TW)",
             "file": "zh_TW.json"
+        },
+        "pt_BR": {
+            "name": "Brazilian Portuguese",
+            "file": "pt_BR.json"
         }
     }
 }
