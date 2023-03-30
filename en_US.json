@@ -320,6 +320,7 @@
     "GAME_CACHE_UPDATE_CACHE": "Update Cache",
     "GAME_CACHE_WAITING_FOR_SINGLE_PLAYER": "Waiting for single player to be loaded...",
     "GAME_CACHE_WAITING_FOR_ONLINE": "Waiting for online to start cache update...",
+    "GAME_CACHE_ON_INIT": "Update Cache On Init",
     "GAME_CACHE": "Game Cache",
     "GENERAL": "General",
     "GET_ALL_WEAPONS": "Get All Weapons",
