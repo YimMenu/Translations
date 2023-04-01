@@ -10,6 +10,10 @@
             "name": "Lolcat",
             "file": "en_LOL.json"
         },
+        "pt_BR": {
+            "name": "Portuguese (BR)",
+            "file": "pt_BR.json"
+        },
         "zh_CN": {
             "name": "Chinese (CN)",
             "file": "zh_CN.json"
