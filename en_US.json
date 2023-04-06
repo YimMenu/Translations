@@ -769,5 +769,11 @@
     "OUTFIT_APPLY_SELECTED": "Apply Selected",
     "OUTFIT_DELETE_SELECTED": "Delete Selected",
     "OUTFIT_SLOT": "Slot",
-    "OUTFIT_NAME": "Name"
+    "OUTFIT_NAME": "Name",
+    "GUI_TAB_ORBITAL_DRONE": "Orbital Drone",
+    "ORBITAL_DRONE_USAGE_DESCR": "press 'Look behind' (C/R3 by default) to activate\npress WASD buttons or Left thumbstick to navigate\nUse scroll wheel/Mouse or Right thumbstick to zoom\npress E/Q or L1/R1 to modify speed\npress 'Jump' (Space/X/Square by default) to lock on an entity\npress 'Fire' (Mouse button 1/Right trigger by default) to Obliterate\npress Enter or A/X by default to teleport to target",
+    "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER": "Automatically lock onto player",
+    "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER_TOOLTIP": "If enabled, changes the selected player to the one it detects upon locking on an entity\nAll explosions will be blamed on the selected player, defaulting to the local player",
+    "ORBITAL_DRONE_HIGH_SPEED_MULTIPLIER": "High speed orbital drone multiplier:",
+    "ORBITAL_DRONE_LOW_SPEED_MULTIPLIER": "Slow speed orbital drone multiplier:"
 }
