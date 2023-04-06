@@ -775,5 +775,22 @@
     "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER": "Automatically lock onto player",
     "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER_TOOLTIP": "If enabled, changes the selected player to the one it detects upon locking on an entity\nAll explosions will be blamed on the selected player, defaulting to the local player",
     "ORBITAL_DRONE_HIGH_SPEED_MULTIPLIER": "High speed orbital drone multiplier:",
-    "ORBITAL_DRONE_LOW_SPEED_MULTIPLIER": "Slow speed orbital drone multiplier:"
+    "ORBITAL_DRONE_LOW_SPEED_MULTIPLIER": "Slow speed orbital drone multiplier:",
+    "VEHICLE_CONTROLLER": "Vehicle Controller",
+    "VEHICLE_CONTROLLER_TRY_ALT_PATHFINDING": "Failed to pathfind using accurate method, using alternative method.",
+    "VEHICLE_CONTROLLER_FOUND_LOCATION": "Found a nice spot, your vehicle is on its way.",
+    "VEHICLE_CONTROLLER_FORCE_PATHFINDING": "Couldn't locate an accurate spot, your vehicle is on its way regardless.",
+    "VEHICLE_CONTROLLER_NAVMESH_FAILURE": "Failed to load navmesh, unable to navigate.",
+    "OPEN": "Open",
+    "CLOSE_ALL_DOORS": "Close All",
+    "OPEN_ALL_DOORS": "Open All",
+    "VEHICLE_CONTROLLER_ALL_DOORS": "All doors",
+    "VEHICLE_CONTROLLER_TOGGLE_LIGHTS": "Toggle Lights",
+    "VEHICLE_CONTROLLER_TOGGLE_HIGH_BEAMS": "Toggle High beams",
+    "VEHICLE_CONTROLLER_INTERIOR_LIGHTS_ON": "Interior lights on",
+    "VEHICLE_CONTROLLER_INTERIOR_LIGHTS_OFF": "Interior lights off",
+    "VEHICLE_CONTROLLER_NEON_LIGHTS": "Neon lights",
+    "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_WALKING": "Walk",
+    "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_RUNNING": "Run",
+    "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_SPRINTING": "Sprint"
 }
