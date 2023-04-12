@@ -795,5 +795,5 @@
   "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_SPRINTING": "Sprint",
   "POTENTIAL_ADMIN_FOUND": "Potential Admin Found!",
   "PLAYER_DETECTED_AS_ADMIN": "{} has been detected as admin",
-  "ADMIN_CHECK": "Admin Check"
+  "ADMIN_Check": "Admin Check"
 }
