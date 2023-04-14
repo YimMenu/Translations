@@ -1,7 +1,11 @@
 {
-    "version": 14,
+    "version": 15,
     "default_lang": "en_US",
     "translations": {
+        "es_ES": {
+            "name": "Español (España)",
+            "file": "es_ES.json"
+        },
         "en_US": {
             "name": "English (US)",
             "file": "en_US.json"
