@@ -729,7 +729,7 @@
     "CMD_EXECUTOR_TYPE_CMD": "écris ta commande",
     "CMD_EXECUTOR_NO_CMD": "Aucune commande trouvée. :(",
     "CMD_EXECUTOR_CMD_TEMPLATE": "{} - {} - {} | {} Args",
-    "CMD_EXECUTOR_MULTIPLE_CMDS": "Tu peut executer plusieurs commandes en meme temps utilisant ";"",
+    "CMD_EXECUTOR_MULTIPLE_CMDS": "Tu peut executer plusieurs commandes en meme temps utilisant \";\"",
     "HIDE_FROM_PLAYER_LIST": "cacher de la liste des joueurs",
     "SPOOF_BLIP_TYPE": "usurper type d'icone joueur",
     "SPOOF_RANK": "usurper rang",
