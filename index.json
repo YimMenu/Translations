@@ -10,6 +10,10 @@
             "name": "English (US)",
             "file": "en_US.json"
         },
+        "fr_FR": {
+            "name": "Français (FR)",
+            "file": "fr_FR.json"
+        },
         "en_LOL": {
             "name": "Lolcat",
             "file": "en_LOL.json"
