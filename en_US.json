@@ -725,6 +725,7 @@
     "GUI_TAB_PROTECTION": "Protection",
     "GUI_TAB_TRANSLATION": "Translation",
     "GUI_TAB_DEBUG": "Debug",
+    "GUI_TAB_IPL": "IPL",
     "CMD_EXECUTOR_TITLE": "YimMenu Command Executor",
     "CMD_EXECUTOR_TYPE_CMD": "Type your command",
     "CMD_EXECUTOR_NO_CMD": "No commands could be found. :(",
@@ -794,5 +795,11 @@
     "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_RUNNING": "Run",
     "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_SPRINTING": "Sprint",
     "POTENTIAL_ADMIN_FOUND": "Potential Admin Found!",
-    "PLAYER_DETECTED_AS_ADMIN": "{} has been detected as admin"
+    "PLAYER_DETECTED_AS_ADMIN": "{} has been detected as admin",
+    "IPL_LOCATION": "IPL Location",
+    "LOAD_IPL": "Load IPL",
+    "TP_TO_IPL": "Teleport to IPL",
+    "IPL_INFOS": "IPL Informations",
+    "IPL_CNT": "IPL Count {}",
+    "IPL_POSITION": "Position X: {} | Y: {} | Z: {}"
 }
