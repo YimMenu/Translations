@@ -812,7 +812,7 @@
     "SKIP_CUTSCENE": "Skip Cutscene",
     "REFRESH_INTERIOR": "Refresh Interior",
     "NET_SHUTDOWN_AND_LOAD_SP": "Network Shutdown and Launch Singleplayer",
-    "NET_SHUTDOWN_AND_LOAD_MP": "Network Shutdown and Launch Multiplayer",
+    "NET_SHUTDOWN_AND_LOAD_SAVE": "Network Shutdown and Load Most Recent Save",
     "REMOVE_BLACKSCREEN": "Remove Blackscreen",
     "TP_TO_SAFE_POS": "TP to Safe Position",
     "ADDRESSES": "Addresses",
