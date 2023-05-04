@@ -801,5 +801,31 @@
     "TP_TO_IPL": "Teleport to IPL",
     "IPL_INFOS": "IPL Informations",
     "IPL_CNT": "IPL Count {}",
-    "IPL_POSITION": "Position X: {} | Y: {} | Z: {}"
+    "IPL_POSITION": "Position X: {} | Y: {} | Z: {}",
+    "ADMIN_CHECK": "Admin Check",
+    "RECIEVE_PICKUP": "Recieve Pickup",
+    "RESET": "Reset",
+    "DUMP_ENTRYPOINTS": "Dump Entrypoints",
+    "NETWORK_BAIL": "Network Bail",
+    "LOAD_MP_MAP": "Load MP Map",
+    "LOAD_SP_MAP": "Load SP Map",
+    "SKIP_CUTSCENE": "Skip Cutscene",
+    "REFRESH_INTERIOR": "Refresh Interior",
+    "NET_SHUTDOWN_AND_LOAD_SP": "Network Shutdown and Launch Singleplayer",
+    "NET_SHUTDOWN_AND_LOAD_MP": "Network Shutdown and Launch Multiplayer",
+    "REMOVE_BLACKSCREEN": "Remove Blackscreen",
+    "TP_TO_SAFE_POS": "TP to Safe Position",
+    "ADDRESSES": "Addresses",
+    "LOCAL_CPED": "Local CPed",
+    "LOCAL_CPLAYERINFO": "Local CPlayerInfo",
+    "LOCAL_CAUTOMOBILE": "Local CAutomobile",
+    "LOCAL_CNETGAMEPLAYER": "Local CNetGamePlayer",
+    "LOCAL_NETPLAYERDATA": "Local netPlayerData",
+    "NETWORK_OBJ_MGR": "Network Obj Mgr",
+    "ANIMATION_PLAYER": "Animation Player",
+    "ANIMATION": "Animation",
+    "DICT": "Dict",
+    "PLAY_ANIMATION": "Play Animation"
+
+
 }
