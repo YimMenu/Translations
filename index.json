@@ -1,11 +1,12 @@
 {
-    "fallback_default_language": "en_US",
-    "fallback_languages": {
-        "en_US": {
-            "file": "en_US.json",
-            "name": "English (US)"
-        }
-    },
-    "selected_language": "en_US",
-    "version": 20
+  "fallback_default_language": "en_US",
+  "fallback_languages": {
+    "en_US": {
+      "file": "en_US.json",
+      "name": "English (US)"
+    }
+  },
+  "selected_language": "en_US",
+  "version": 20,
+  "default_lang": "en_US"
 }
