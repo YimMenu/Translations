@@ -15,11 +15,9 @@
     "AUTO_KICK_CHAT_SPAMMERS": "Auto-kick Chat Spammers",
     "AUTO_TP_TO_WP": "Auto-Teleport To Waypoint",
     "BACK": "Back",
-  "BAD_SPORT": "Bad Sport",
-
+    "BAD_SPORT": "Bad Sport",
     "BAIL_KICK": "Bail Kick",
-  "BAIL_KICK_DESC": "Network Bail blocked by most menus",
-
+    "BAIL_KICK_DESC": "Network Bail blocked by most menus",
     "BLAMED_FOR_EXPLOSION": "{} blamed {} for explosion",
     "BLIPS": "Blips:",
     "BLOCK": "Block",
@@ -33,14 +31,11 @@
     "BOUNTY": "Bounty",
     "BOUNTY_ANON": "Anonymous Bounty",
     "BOUNTY_ANON_DESC": "Don't show your name when setting a bounty on someone",
-  "BOUNTY_DESC": "Sets a 10k bounty on the player",
-
+    "BOUNTY_DESC": "Sets a 10k bounty on the player",
     "BREAKUP_KICK": "Breakup Kick",
-  "BREAKUP_KICK_DESC": "Almost unblockable kicking method",
-
+    "BREAKUP_KICK_DESC": "Almost unblockable kicking method",
     "BREAKUP_KICK_SHOW_CHEATING": "Show Cheating Message",
     "BREAKUP_KICK_SHOW_CHEATING_DESC": "Shows a \"was detected cheating and has been removed from the session\" instead of the usual leave message when the player gets kicked",
-    
     "BRING": "Bring",
     "BRING_ALL": "Bring All",
     "BRING_ALL_DESC": "Teleports everyone to you, even if they are on foot",
@@ -56,11 +51,9 @@
     "CANCEL": "Cancel",
     "CAPTURE": "Capture",
     "CEO_ABILITIES": "CEO Abilities",
-  "CEO_BULLSHARK": "Bullshark Testosterone",
-
+    "CEO_BULLSHARK": "Bullshark Testosterone", 
     "CEO_KICK": "CEO Kick",
-  "CEO_KICK_DESC": "Kicks a player from their CEO/MC",
-
+    "CEO_KICK_DESC": "Kicks a player from their CEO/MC",
     "CEO_MONEY": "CEO Money",
     "CHALLENGES": "Challenges",
     "CHANGE_PLATE_NUMBER": "Change Plate Number",
@@ -85,11 +78,9 @@
     "CMD_EXECUTOR_TITLE": "Command Executor",
     "CMD_EXECUTOR_TYPE_CMD": "Type your command",
     "COLLISION": "Collision",
-  "COLOR_OPTIONS": "Color Options",
-
+    "COLOR_OPTIONS": "Color Options",
     "COMPLAINT_KICK": "Desync Kick",
-  "COMPLAINT_KICK_DESC": "This may take around 10 seconds to kick the player. Does not work against the host",
-
+    "COMPLAINT_KICK_DESC": "This may take around 10 seconds to kick the player. Does not work against the host",
     "COPY": "Copy",
     "COPY_SESSION_INFO": "Copy Session Info",
     "CREATOR_INFINITE_MEMORY": "Infinite Model Memory",
@@ -156,10 +147,8 @@
     "DELETE_TRAIN": "Delete Train",
     "DELETE_TRAIN_DESC": "You cant delete the train while in it.",
     "DERAIL_TRAIN": "Derail Train",
-  "DESCENDING": "Descending",
-
-  "DESYNC_KICK": "Desync Kick",
-
+    "DESCENDING": "Descending",
+    "DESYNC_KICK": "Desync Kick",
     "DICT": "Dict",
     "DIRECTION": "Direction",
     "DISABLE_CEO_MONEY": "Disable CEO Money",
@@ -179,11 +168,9 @@
     "DUMP_ENTRYPOINTS": "Dump Entrypoints",
     "EMERGENCY_STOP": "Emergency Stop",
     "ENABLED": "Enabled",
-  "ENABLE_SPECIAL_AMMO": "Enable Special Ammo",
-
-  "END_KICK": "End Session Kick",
-  "END_KICK_DESC": "This may take around 10 seconds to kick the player",
-
+    "ENABLE_SPECIAL_AMMO": "Enable Special Ammo",
+    "END_KICK": "End Session Kick",
+    "END_KICK_DESC": "This may take around 10 seconds to kick the player",
     "ENTER_INTERIOR": "Enter Interior",
     "ENTER_INTERIOR_DESC": "Enters the player's interior",
     "ERROR_FAILED_TO_TAKE_CONTROL": "Failed to take control of player vehicle.",
@@ -397,7 +384,7 @@
     "IPL_POSITION": "Position X: {} | Y: {} | Z: {}",
     "IP_ADDRESS": "IP Address",
     "IP_ADDRESS_COLON": "IP Address:",
-    "IS_MODDER": "Is Modder",
+    "IS_MODDER": "Mark Modder",
     "IS_TEAM": "Is Team",
     "JOIN": "Join",
     "JOIN_BY_RID": "Join by RID",
@@ -429,11 +416,9 @@
     "LANGUAGE_FILTER_DESC": "Setting a correct region filter for the language will help tremendously",
     "LAW_ABIDING": "Law-Abiding",
     "LEFT": "Left",
-  "LEFT_SIDED": "Left Sided",
-
+    "LEFT_SIDED": "Left Sided",
     "LESSEN_BREAKUP_KICK": "Lessen Breakup Kicks As Host",
-  "LESSEN_BREAKUP_KICK_DESCRIPTION": "Attacker must join after you have become host for this to work",
-
+    "LESSEN_BREAKUP_KICK_DESCRIPTION": "Attacker must join after you have become host for this to work",
     "LOAD": "Load",
     "LOAD_IPL": "Load IPL",
     "LOAD_MP_MAP": "Load MP Map",
