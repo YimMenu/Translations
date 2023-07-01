@@ -15,9 +15,11 @@
     "AUTO_KICK_CHAT_SPAMMERS": "Auto-kick Chat Spammers",
     "AUTO_TP_TO_WP": "Auto-Teleport To Waypoint",
     "BACK": "Back",
-    "BAD_SPORT": "Bad Sport",
+  "BAD_SPORT": "Bad Sport",
+
     "BAIL_KICK": "Bail Kick",
-    "BAIL_KICK_DESC": "Blocked by most menus",
+  "BAIL_KICK_DESC": "Network Bail blocked by most menus",
+
     "BLAMED_FOR_EXPLOSION": "{} blamed {} for explosion",
     "BLIPS": "Blips:",
     "BLOCK": "Block",
@@ -31,11 +33,14 @@
     "BOUNTY": "Bounty",
     "BOUNTY_ANON": "Anonymous Bounty",
     "BOUNTY_ANON_DESC": "Don't show your name when setting a bounty on someone",
-    "BOUNTY_DESC": "Sets a 10k bounty on the player",
+  "BOUNTY_DESC": "Sets a 10k bounty on the player",
+
     "BREAKUP_KICK": "Breakup Kick",
-    "BREAKUP_KICK_DESC": "Nearly unblockable but could be detected by others",
+  "BREAKUP_KICK_DESC": "Almost unblockable kicking method",
+
     "BREAKUP_KICK_SHOW_CHEATING": "Show Cheating Message",
     "BREAKUP_KICK_SHOW_CHEATING_DESC": "Shows a \"was detected cheating and has been removed from the session\" instead of the usual leave message when the player gets kicked",
+    
     "BRING": "Bring",
     "BRING_ALL": "Bring All",
     "BRING_ALL_DESC": "Teleports everyone to you, even if they are on foot",
@@ -51,9 +56,11 @@
     "CANCEL": "Cancel",
     "CAPTURE": "Capture",
     "CEO_ABILITIES": "CEO Abilities",
-    "CEO_BULLSHARK": "Bullshark Testosterone",
+  "CEO_BULLSHARK": "Bullshark Testosterone",
+
     "CEO_KICK": "CEO Kick",
-    "CEO_KICK_DESC": "Kicks a player from their CEO/MC",
+  "CEO_KICK_DESC": "Kicks a player from their CEO/MC",
+
     "CEO_MONEY": "CEO Money",
     "CHALLENGES": "Challenges",
     "CHANGE_PLATE_NUMBER": "Change Plate Number",
@@ -78,9 +85,11 @@
     "CMD_EXECUTOR_TITLE": "Command Executor",
     "CMD_EXECUTOR_TYPE_CMD": "Type your command",
     "COLLISION": "Collision",
-    "COLOR_OPTIONS": "Color Options",
+  "COLOR_OPTIONS": "Color Options",
+
     "COMPLAINT_KICK": "Desync Kick",
-    "COMPLAINT_KICK_DESC": "This may take around 10 seconds to kick the player. Does not work against the host",
+  "COMPLAINT_KICK_DESC": "This may take around 10 seconds to kick the player. Does not work against the host",
+
     "COPY": "Copy",
     "COPY_SESSION_INFO": "Copy Session Info",
     "CREATOR_INFINITE_MEMORY": "Infinite Model Memory",
@@ -147,8 +156,10 @@
     "DELETE_TRAIN": "Delete Train",
     "DELETE_TRAIN_DESC": "You cant delete the train while in it.",
     "DERAIL_TRAIN": "Derail Train",
-    "DESCENDING": "Descending",
-    "DESYNC_KICK": "Desync Kick",
+  "DESCENDING": "Descending",
+
+  "DESYNC_KICK": "Desync Kick",
+
     "DICT": "Dict",
     "DIRECTION": "Direction",
     "DISABLE_CEO_MONEY": "Disable CEO Money",
@@ -168,9 +179,11 @@
     "DUMP_ENTRYPOINTS": "Dump Entrypoints",
     "EMERGENCY_STOP": "Emergency Stop",
     "ENABLED": "Enabled",
-    "ENABLE_SPECIAL_AMMO": "Enable Special Ammo",
-    "END_KICK": "End Session Kick",
-    "END_KICK_DESC": "This may take around 10 seconds to kick the player",
+  "ENABLE_SPECIAL_AMMO": "Enable Special Ammo",
+
+  "END_KICK": "End Session Kick",
+  "END_KICK_DESC": "This may take around 10 seconds to kick the player",
+
     "ENTER_INTERIOR": "Enter Interior",
     "ENTER_INTERIOR_DESC": "Enters the player's interior",
     "ERROR_FAILED_TO_TAKE_CONTROL": "Failed to take control of player vehicle.",
@@ -416,9 +429,11 @@
     "LANGUAGE_FILTER_DESC": "Setting a correct region filter for the language will help tremendously",
     "LAW_ABIDING": "Law-Abiding",
     "LEFT": "Left",
-    "LEFT_SIDED": "Left Sided",
+  "LEFT_SIDED": "Left Sided",
+
     "LESSEN_BREAKUP_KICK": "Lessen Breakup Kicks As Host",
-    "LESSEN_BREAKUP_KICK_DESCRIPTION": "Attacker must join after you have become host for this to work. There are anti-cheat concerns with this feature",
+  "LESSEN_BREAKUP_KICK_DESCRIPTION": "Attacker must join after you have become host for this to work",
+
     "LOAD": "Load",
     "LOAD_IPL": "Load IPL",
     "LOAD_MP_MAP": "Load MP Map",
@@ -491,27 +506,33 @@
     "NO_CLIP": "No Clip",
     "NO_CLIP_DESC": "Allows you to fly through the map",
     "NO_COLLISION": "No Collision",
-    "NO_COLLISION_DESC": "Allows you to walk through vehicles and most obstacles",
-    "NO_IDLE_KICK": "No Idle Kick",
+  "NO_COLLISION_DESC": "Allows you to walk through vehicles and most obstacles",
+
+  "NO_IDLE_KICK": "No Idle Kick",
+
     "NO_PERSONAL_VEHICLES": "No personal vehicles found, \nare you online?",
     "NO_RAGDOLL": "No Ragdoll",
     "NO_RAGDOLL_DESC": "Prevents you from ragdolling",
     "NO_SESSIONS": "No sessions",
     "NO_STORED_PLAYERS": "No stored players",
     "NO_VEHICLE_IN_REGISTRY": "No vehicles in registry.",
-    "NO_WEAPONS": "NO WEAPONS",
+  "NO_WEAPONS": "NO WEAPONS",
+
     "NULL_FUNCTION_KICK": "Null Function Kick",
-    "NULL_FUNCTION_KICK_DESC": "It may take around 15 seconds for the player to actually leave the session",
+  "NULL_FUNCTION_KICK_DESC": "It may take around 15 seconds for the player to actually leave the session",
+
     "OFF": "Off",
     "OFF_RADAR": "Off Radar",
     "OFF_RADAR_DESC": "Hides your blip from other players",
     "OFF_THE_RADAR": "Off The Radar",
     "ONE_ON_ON_DM": "One-On-One Deathmatch",
     "ONLINE_PLAYER": "ONLINE PLAYER",
-    "ONLY_AS_HOST": "Only works as host",
+  "ONLY_AS_HOST": "Only works as host",
+
     "OOM_KICK": "{} tried to OOM kick you!",
     "OOM_KICK_CMD": "OOM Kick",
-    "OOM_KICK_CMD_DESC": "Causes the player to be kicked with an alert. This kick has a high chance of backfiring in its current state",
+  "OOM_KICK_CMD_DESC": "Causes the player to be kicked with an alert. It may backfire you tho",
+
     "OPEN": "Open",
     "OPEN_ALL_DOORS": "Open All",
     "ORBITAL_DRONE_AUTO_LOCK_ON_PLAYER": "Automatically lock onto player",
@@ -636,9 +657,11 @@
     "RANDOMIZE_CEO_COLORS": "Randomize CEO Colors",
     "REACTION_ADD_TO_DATABASE": "Add Player To Database",
     "REACTION_BLOCK_JOINS": "Block Joins",
-    "REACTION_CHAT": "Announce In Chat",
+  "REACTION_CHAT": "Announce In Chat",
+
     "REACTION_KICK_ATTACKER": "Kick Attacker",
-    "REACTION_KICK_PLAYER": "Kick Player",
+  "REACTION_KICK_PLAYER": "Kick Player",
+
     "RECIEVE_PICKUP": "Recieve Pickup",
     "REFRESH": "Refresh",
     "REFRESH_INTERIOR": "Refresh Interior",
@@ -650,12 +673,14 @@
     "REMOTE_CRASH_INVALID_BLACKLIST": "Blocked invalid blacklist remote crash",
     "REMOTE_CRASH_INVALID_BLACKLIST_FROM": "Blocked invalid blacklist crash from {}",
     "REMOTE_CRASH_INVALID_TRANSITION": "Blocked invalid transition launch remote crash",
-    "REMOTE_CRASH_INVALID_TRANSITION_FROM": "Blocked invalid transition launch crash from {}",
+  "REMOTE_CRASH_INVALID_TRANSITION_FROM": "Blocked invalid transition launch crash from {}",
+
     "REMOTE_KICK_BREAKUP": "Someone tried to breakup kick you remotely!",
     "REMOTE_KICK_BREAKUP_PLAYER": "Someone tried to breakup kick {} remotely!",
     "REMOTE_KICK_GAMER_INSTRUCTION": "Someone tried to gamer instruction kick you remotely!",
     "REMOTE_KICK_LOST_CONNECTION": "Someone tried to lost connection kick you remotely!",
-    "REMOTE_KICK_LOST_CONNECTION_PLAYER": "Someone tried to lost connection kick {} remotely!",
+  "REMOTE_KICK_LOST_CONNECTION_PLAYER": "Someone tried to lost connection kick {} remotely!",
+
     "REMOTE_NAME_SPOOFING": "Remote Name Spoofing",
     "REMOTE_OFF_RADAR": "Remote Off Radar",
     "REMOVE": "Remove",
@@ -900,8 +925,10 @@
     "UNLIMITED_OXYGEN_DESC": "Allows you to stay underwater without losing oxygen",
     "UNLOAD": "Unload",
     "USERNAME": "Username",
-    "USERNAME_COLON": "Username:",
-    "USER_DESYNC_KICKED": "You have been desync kicked.",
+  "USERNAME_COLON": "Username:",
+
+  "USER_DESYNC_KICKED": "You have been desync kicked.",
+
     "VEHICLE": "Vehicle",
     "VEHICLES": "Vehicles:",
     "VEHICLE_CLASS": "Vehicle Class",
