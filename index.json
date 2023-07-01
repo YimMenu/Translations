@@ -3,7 +3,7 @@
   "default_lang": "en_US",
   "fallback_default_language": "en_US",
   "selected_language": "en_US",
-  "fallback_languages": {
+  "translations": {
     "en_US": {
       "name": "English (US)",
       "file": "en_US.json"
