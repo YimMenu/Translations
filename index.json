@@ -1,34 +1,11 @@
 {
-    "version": 20,
-    "default_lang": "en_US",
-    "translations": {
-        "es_ES": {
-            "name": "Español (España)",
-            "file": "es_ES.json"
-        },
+    "fallback_default_language": "en_US",
+    "fallback_languages": {
         "en_US": {
-            "name": "English (US)",
-            "file": "en_US.json"
-        },
-        "fr_FR": {
-            "name": "Français (FR)",
-            "file": "fr_FR.json"
-        },
-        "en_LOL": {
-            "name": "Lolcat",
-            "file": "en_LOL.json"
-        },
-        "pt_BR": {
-            "name": "Portuguese (BR)",
-            "file": "pt_BR.json"
-        },
-        "zh_CN": {
-            "name": "Chinese (CN)",
-            "file": "zh_CN.json"
-        },
-        "zh_TW": {
-            "name": "Chinese (TW)",
-            "file": "zh_TW.json"
+            "file": "en_US.json",
+            "name": "English (US)"
         }
-    }
+    },
+    "selected_language": "en_US",
+    "version": 20
 }
