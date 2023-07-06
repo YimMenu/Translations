@@ -1,7 +1,7 @@
 {
     "ADD": "Añadir",
-    "ADVERTISE_YIMMENU": "Anunciar YimMenu",
-    "ADVERTISE_YIMMENU_DESC": "Anuncia YimMenu falsificando los nombres de los jugadores con variantes de 'YimMenu' de distintos colores. No podrás personalizar el nombre con esta opción activada",
+    "ADVERTISE_DEMONIC": "Anunciar YimMenu",
+    "ADVERTISE_DEMONIC_DESC": "Anuncia YimMenu falsificando los nombres de los jugadores con variantes de 'YimMenu' de distintos colores. No podrás personalizar el nombre con esta opción activada",
     "ALL": "Todos",
     "ALL_PLAYERS": "Todos los jugadores",
     "AMMO": "Munición",

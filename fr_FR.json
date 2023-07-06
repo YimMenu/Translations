@@ -1,7 +1,7 @@
 {
     "ADD": "Ajouter",
-    "ADVERTISE_YIMMENU": "Faire de la publicité a YimMenu",
-    "ADVERTISE_YIMMENU_DESC": "Faire de la publicité en usurpant le nom des joueurs changera en variants colorés 'YimMenu'.Vous ne pourrez pas customiser le nom des joueurs avec cette option activée",
+    "ADVERTISE_DEMONIC": "Faire de la publicité a YimMenu",
+    "ADVERTISE_DEMONIC_DESC": "Faire de la publicité en usurpant le nom des joueurs changera en variants colorés 'YimMenu'.Vous ne pourrez pas customiser le nom des joueurs avec cette option activée",
     "ALL": "Tout",
     "ALL_PLAYERS": "Tous les joueurs",
     "AMMO": "Munition",

@@ -1,7 +1,7 @@
 {
     "ADD": "Add",
-    "ADVERTISE_YIMMENU": "Advertise YimMenu",
-    "ADVERTISE_YIMMENU_DESC": "Advertise YimMenu by spoofing player names to differently colored variants of 'YimMenu'. You will not be able to customize the name with this option enabled",
+    "ADVERTISE_DEMONIC": "Advertise YimMenu",
+    "ADVERTISE_DEMONIC_DESC": "Advertise YimMenu by spoofing player names to differently colored variants of 'YimMenu'. You will not be able to customize the name with this option enabled",
     "ALL": "All",
     "ALL_PLAYERS": "All Players",
     "AMMO": "Ammo",

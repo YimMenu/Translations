@@ -1,7 +1,7 @@
 {
     "ADD": "添加",
-    "ADVERTISE_YIMMENU": "給 YimMenu 打廣告",
-    "ADVERTISE_YIMMENU_DESC": "通過將玩家名稱偽裝成不同顏色的'YimMenu'來宣傳 YimMenu。啟用此選項后您將無法自定義名稱",
+    "ADVERTISE_DEMONIC": "給 YimMenu 打廣告",
+    "ADVERTISE_DEMONIC_DESC": "通過將玩家名稱偽裝成不同顏色的'YimMenu'來宣傳 YimMenu。啟用此選項后您將無法自定義名稱",
     "ALL": "所有",
     "ALL_PLAYERS": "所有玩家",
     "AMMO": "彈藥",
