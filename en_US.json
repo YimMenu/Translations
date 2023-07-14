@@ -356,6 +356,7 @@
     "HIJACK_TRAIN": "Hijack Train",
     "HIJACK_TRAIN_DELETED_TRAIN": "Deleted the nearby train",
     "HIJACK_TRAIN_FOUND_TRAIN": "Found a train nearby",
+	"HOLD_FOR_BOOST": "Hold for Boost",
     "HOST_TARGET": "Hot Target",
     "HOT_PROPERTY": "Hot Property",
     "HOUR": "Hour",
