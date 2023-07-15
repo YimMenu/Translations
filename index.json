@@ -29,6 +29,10 @@
         "zh_TW": {
             "name": "Chinese (TW)",
             "file": "zh_TW.json"
+        },
+        "it_IT": {
+            "name": "Italiano",
+            "file": "it_IT.json"
         }
     }
 }
