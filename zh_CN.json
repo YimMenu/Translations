@@ -642,7 +642,7 @@
   "REACTION_CHAT": "在聊天中宣告",
   "REACTION_KICK_ATTACKER": "踢出攻击者",
   "REACTION_KICK_PLAYER": "踢出玩家",
-  "RECIEVE_PICKUP": "拾取物品",
+  "RECEIVE_PICKUP": "拾取物品",
   "REFRESH_INTERIOR": "刷新室内地图",
   "REFRESH": "刷新",
   "REGION_FILTER_DESC": "强烈建议启用此过滤器",

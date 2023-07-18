@@ -648,7 +648,7 @@
   "REACTION_CHAT": "Announce In Chat",
   "REACTION_KICK_ATTACKER": "Kick Attacker",
   "REACTION_KICK_PLAYER": "Kick Player",
-  "RECIEVE_PICKUP": "Recieve Pickup",
+  "RECEIVE_PICKUP": "Receive Pickup",
   "REFRESH_INTERIOR": "Refresh Interior",
   "REFRESH": "Refresh",
   "REGION_FILTER_DESC": "It is highly recommended to keep this filter enabled",
