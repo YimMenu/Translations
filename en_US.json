@@ -854,6 +854,8 @@
   "TELEPORT_NO_OBJECTIVE": "No objective found.",
   "TELEPORT_NO_SEATS_FREE": "There are no seats available in this vehicle for you.",
   "TELEPORT_NO_WAYPOINT_SET": "No waypoint found.",
+  "TELEPORT_NOT_ONLINE": "You need to be online to use this feature.",
+  "TELEPORT_NOTHING_SELECTED": "There is no blip selected on your map to teleport to.",
   "TELEPORT_PLAYER_IS_DEAD": "Player is dead, you can't teleport them.",
   "TELEPORT_TO_WAREHOUSE": "Teleport To Warehouse",
   "TELEPORT": "Teleport",
