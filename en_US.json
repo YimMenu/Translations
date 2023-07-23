@@ -495,6 +495,8 @@
   "NEW_ENTRY": "New Entry",
   "NO_CLIP_DESC": "Allows you to fly through the map",
   "NO_CLIP": "No Clip",
+  "NOCLIP_AIM_SPEED_MULTIPLIER": "No Clip Movement Speed Multiplier While Aiming",
+  "NOCLIP_SPEED_MULTIPLIER": "No Clip Movement Speed Multiplier",
   "NO_COLLISION_DESC": "Allows you to walk through vehicles and most obstacles",
   "NO_COLLISION": "No Collision",
   "NO_IDLE_KICK": "No Idle Kick",
