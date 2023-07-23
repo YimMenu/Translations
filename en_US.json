@@ -297,6 +297,7 @@
   "GUI_TAB_WATER": "Water",
   "GUI_TAB_WEAPONS": "Weapons",
   "GUI_TAB_WORLD": "World",
+  "GUI_TAB_VFX": "VFX",
   "GUNSLINGER": "Gunslinger",
   "HANDLING_ACCELERATION_MULTIPLIER": "Acceleration Multiplier",
   "HANDLING_ANTI_ROLL_BAR_BIAS_FRONT": "Anti-Roll Bar Bias front (0 = front, 1 = rear)",
@@ -963,5 +964,10 @@
   "WINDOW_TINT": "Window Tint",
   "WIZARD": "SPACE_MONKEY",
   "WRITE": "Write",
-  "YES": "Yes"
+  "YES": "Yes",
+  "VFX_AZIMUTH_EAST": "Azimuth East",
+  "VFX_AZIMUTH_WEST": "Azimuth West",
+  "VFX_AZIMUTH_TRANSITION": "Azimuth Transition",
+  "VFX_ZENITH": "Zenith",
+  "VFX_STARS_INTENSITY": "Stars Intensity"
 }
