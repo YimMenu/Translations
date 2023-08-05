@@ -1,3 +1,4 @@
+
 {
   "ADD": "Add",
   "ADDRESSES": "Addresses",
@@ -304,6 +305,7 @@
   "GUI_TAB_ORBITAL_DRONE": "Orbital Drone",
   "GUI_TAB_OUTFIT_EDITOR": "Outfit Editor",
   "GUI_TAB_OUTFIT_SLOTS": "Outfit Slots",
+  "GUI_TAB_ANIMATIONS": "Animations",
   "GUI_TAB_PERSIST_CAR": "Persist Car",
   "GUI_TAB_PERSONAL_VEHICLE": "Personal Vehicle",
   "GUI_TAB_PLAYER_DATABASE": "Player Database",
