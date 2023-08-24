@@ -621,6 +621,8 @@
   "OVERRIDE_TIME": "Override Time",
   "PART_WATER_DESC": "Makes you displace water as you walk, like Moses",
   "PART_WATER": "Part Water",
+  "PASSIVE": "Passive Mode",
+  "PASSIVE_DESC": "Instantly toggle passive mode",
   "PEARLESCENT": "Pearlescent",
   "PED_MODEL": "Ped Model",
   "PED_TYPE": "Ped Type",
