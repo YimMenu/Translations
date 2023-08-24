@@ -1015,6 +1015,8 @@
   "USER_DESYNC_KICKED": "You have been desync kicked.",
   "USERNAME_COLON": "Username:",
   "USERNAME": "Username",
+  "VEHICLE_ALLOW_ALL_IN_HEISTS": "Allow All Vehicles",
+  "VEHICLE_ALLOW_ALL_IN_HEISTS_DESC": "Allows All Vehicles that have been banned from being used in heists or missions.",
   "VEHICLE_ALL_WEAPONS": "Allow Weapons In Vehicle",
   "VEHICLE_ALL_WEAPONS_DESC": "Allows you to use all weapons in vehicle",
   "VEHICLE_CLASS": "Vehicle Class",
