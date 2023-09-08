@@ -228,6 +228,8 @@
   "FORCE_INTO_MISSION_DESC": "Forces the player into a gunrunning mission",
   "FORCE_INTO_MISSION": "Force Into Mission",
   "FORCE_MISSION": "Force Mission",
+  "FORCE_RELAY_CXN": "Force Relay Connections",
+  "FORCE_RELAY_CXN_DESC": "Force Relay Connections will hide your IP address from other players. This will also prevent you from seeing other people's actual IP address. Enabling this feature may cause you or other players to appear laggy and will cause issues with missions.",
   "FORCE_SCRIPT_HOST": "Force Script Host",
   "FORCE_SCRIPT_HOST_DESC": "This might break freemode missions and interiors. Use with caution",
   "FORCE_SESSION_HOST_DESC": "Join another session to apply changes. The original host of the session must leave or be kicked. This feature is easily detectable by other mod menus, use with caution",
