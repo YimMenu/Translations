@@ -682,7 +682,7 @@
   "PLAYER_INFO_RID": "Rockstar ID: %d",
   "PLAYER_INFO_SESSION_HOST": "Session Host: %s",
   "PLAYER_INFO_TOTAL_MONEY": "Total Money: %llu",
-  "PLAYER_INFO_VEHICLE_PROOFS": "Vehicle proofs: %s",
+  "PLAYER_INFO_VEHICLE": "Vehicle: %s | Proofs: %s",
   "PLAYER_INFO_WALLET": "Money In Wallet: %llu",
   "PLAYER_INFO_WANTED_LEVEL": "Wanted Level: %d",
   "PLAYER_JOINED_INFO": "{} taking slot {} with Rockstar ID: {}",
