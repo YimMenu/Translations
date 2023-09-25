@@ -2,21 +2,25 @@
     "version": 42,
     "default_lang": "en_US",
     "translations": {
-        "es_ES": {
-            "name": "Español (España)",
-            "file": "es_ES.json"
+        "de_DE": {
+            "name": "Deutsch",
+            "file": "de_DE.json"
+        },
+        "en_LOL": {
+            "name": "Lolcat",
+            "file": "en_LOL.json"
         },
         "en_US": {
             "name": "English (US)",
             "file": "en_US.json"
         },
+        "es_ES": {
+            "name": "Español (España)",
+            "file": "es_ES.json"
+        },
         "fr_FR": {
             "name": "Français (FR)",
             "file": "fr_FR.json"
-        },
-        "en_LOL": {
-            "name": "Lolcat",
-            "file": "en_LOL.json"
         },
         "pt_BR": {
             "name": "Portuguese (BR)",
