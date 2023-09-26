@@ -1,0 +1,41 @@
+name: Check Deprecated Translation Keys
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check-deprecated-translation-keys:
+    runs-on: ubuntu-latest
+    name: Check Deprecated Translation Keys
+    steps:
+      -
+        name: Checkout current translations
+        uses: actions/checkout@v4
+      
+      -
+        name: Checkout YimMenu source code
+        uses: actions/checkout@v4
+        with:
+          repository: YimMenu/YimMenu
+          path: src
+          sparse-checkout: src
+      
+      -
+        name: Prepare data directory
+        run: mkdir -p data && cp -f en_US.json data/
+      
+      -
+        name: Start deprecation check
+        uses: YimMenu/DeprecateTranslations@master
+
+      -
+        name: Generate deprecation summary
+        run: |
+          echo '### Deprecation Results' >> $GITHUB_STEP_SUMMARY
+          echo '```json' >> $GITHUB_STEP_SUMMARY
+          description=$(cat data/deprecated.json)
+          description="${description//'%'/'%25'}"
+          description="${description//$'\n'/'%0A'}"
+          description="${description//$'\r'/'%0D'}"
+          echo $description >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
