@@ -480,7 +480,7 @@
   "LOBBY_LOCK": "Travar lobby",
   "LOBBY_LOCK_DESC": "Impede todos os jogadores de entrarem. Pode não impedir alguns modders.",
   "LOBBY_LOCK_ALLOW_FRIENDS": "Permitir amigos no lobby travado",
-  "LOBBY_LOCK_ALLOW_FRIENDS_DESC": "Permite que amigos entrem no lobby travado", 
+  "LOBBY_LOCK_ALLOW_FRIENDS_DESC": "Permite que amigos entrem no lobby travado",
   "LOCAL_CAUTOMOBILE": "Local CAutomobile",
   "LOCAL_CNETGAMEPLAYER": "Local CNetGamePlayer",
   "LOCAL_CPED": "Local CPed",
