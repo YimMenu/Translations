@@ -33,5 +33,5 @@ jobs:
         run: |
           echo '### Deprecation Results' >> $GITHUB_STEP_SUMMARY
           echo '```json' >> $GITHUB_STEP_SUMMARY
-          echo $(cat data/deprecated.json) >> $GITHUB_STEP_SUMMARY
+          echo "$(cat data/deprecated.json)" >> $GITHUB_STEP_SUMMARY
           echo '```' >> $GITHUB_STEP_SUMMARY
