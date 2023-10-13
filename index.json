@@ -1,5 +1,5 @@
 {
-    "version": 45,
+    "version": 46,
     "default_lang": "en_US",
     "translations": {
         "de_DE": {
@@ -25,6 +25,10 @@
         "pt_BR": {
             "name": "Portuguese (BR)",
             "file": "pt_BR.json"
+        },
+        "ru_RU": {
+            "name": "Русский (RU)",
+            "file": "ru_RU.json"
         },
         "zh_CN": {
             "name": "Chinese (CN)",
