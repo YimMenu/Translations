@@ -360,7 +360,7 @@
   "HANDLING_TRACTION_BIAS": "Баланс силы сцепления (1.0 = смещение на перед, 0.0 = смещение на зад, 0.5 = сбалансировано)",
   "HANDLING_TRACTION_CURVE": "Кривая силы сцепления (точка начала скольжения)",
   "HANDLING_TRACTION_HEIGHT_LOSS": "Высота потери силы сцепления (дистанция между землей и колесами)",
-  "HANDLING_TRANSMISSION_OUTPUT": "Эффективность трансмиссии",
+  "HANDLING_TRANSMISSION_OUTPUT": "Движущая сила",
   "HANDLING_UPSHIFT_MULTIPLIER": "Множитель повышения передачи",
   "HEADING_WELCOME": "Добро пожаловать",
   "HEADLIGHT": "Передние фары",
