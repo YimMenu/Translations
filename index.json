@@ -26,6 +26,10 @@
             "name": "Portuguese (BR)",
             "file": "pt_BR.json"
         },
+		"ru_RU": {
+            "name": "Русский (RU)",
+            "file": "ru_RU.json"
+        },
         "zh_CN": {
             "name": "Chinese (CN)",
             "file": "zh_CN.json"
