@@ -1,14 +1,10 @@
 {
-    "version": 47,
+    "version": 48,
     "default_lang": "en_US",
     "translations": {
         "de_DE": {
             "name": "Deutsch",
             "file": "de_DE.json"
-        },
-        "en_LOL": {
-            "name": "Lolcat",
-            "file": "en_LOL.json"
         },
         "en_US": {
             "name": "English (US)",
