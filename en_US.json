@@ -1181,6 +1181,7 @@
   "TRIGGER_CEO_RAID_DESC": "The player has to be in a CEO for this to work",
   "TRIGGER_MC_RAID": "Trigger MC Raid",
   "TROLL": "Troll",
+  "TRUST": "Trust",
   "TRUST_FRIENDS": "Trust friends",
   "TRUST_FRIENDS_DESC": "Friends won't be flagged as modders or taken actions by reactions",
   "TRUST_SESSION": "Trust this session",
