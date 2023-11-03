@@ -549,6 +549,7 @@
   "GUI_TAB_VFX": "VFX",
   "GUI_TAB_WEAPONS": "Weapons",
   "GUI_TAB_WORLD": "World",
+  "GUI_TAB_XML_MAPS": "XML Maps",
   "HANDLING_ACCELERATION_MULTIPLIER": "Acceleration Multiplier",
   "HANDLING_ANTI_ROLL_BAR_BIAS_FRONT": "Anti-Roll Bar Bias front (0 = front, 1 = rear)",
   "HANDLING_ANTI_ROLL_BAR_FORCE": "Anti-Roll Bar force",
