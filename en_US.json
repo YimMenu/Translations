@@ -759,7 +759,7 @@
   "NOCLIP_AIM_SPEED_MULTIPLIER": "No Clip Movement Speed Multiplier While Aiming",
   "NOCLIP_SPEED_MULTIPLIER": "No Clip Movement Speed Multiplier",
   "NORMAL": "Normal",
-  "NOTIFICATION_CRASH_TYPE_BLOCKED": "%s tried to crash me using %s!",
+  "NOTIFICATION_CRASH_TYPE_BLOCKED": "{} tried to crash me using {}!",
   "NOTIFICATION_WELCOME_TEXT": "Loaded YimMenu. Press {} to open",
   "NOTIFICATION_WELCOME_TITLE": "Welcome",
   "NOTIFY": "Notify",

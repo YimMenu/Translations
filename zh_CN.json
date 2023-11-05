@@ -759,7 +759,7 @@
   "NOCLIP_AIM_SPEED_MULTIPLIER": "瞄准时移动速度倍率",
   "NOCLIP_SPEED_MULTIPLIER": "移动速度倍率",
   "NORMAL": "普通",
-  "NOTIFICATION_CRASH_TYPE_BLOCKED": "%s 试图使用 %s 崩溃我!",
+  "NOTIFICATION_CRASH_TYPE_BLOCKED": "{} 试图使用 {} 崩溃我!",
   "NOTIFICATION_WELCOME_TEXT": "YimMenu 已加载. 请按 {} 打开菜单",
   "NOTIFICATION_WELCOME_TITLE": "欢迎",
   "NOTIFY": "通知",
