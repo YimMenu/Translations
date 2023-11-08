@@ -523,7 +523,7 @@
   "GRAVITY_LEVEL": "Gravity Level",
   "GRAVITY_LUNAR_PRESETS": "Lunar Presets",
   "GRAVITY_MARS": "Mars",
-  "GRAVITY_MERCURY": "Mercury"
+  "GRAVITY_MERCURY": "Mercury",
   "GRAVITY_MOON": "Moon",
   "GRAVITY_NEPTUNE": "Neptune",
   "GRAVITY_PLUTO": "Pluto",
@@ -1077,6 +1077,8 @@
   "REQUEST_BOAT_DESC": "Request a boat pickup",
   "REQUEST_GUN_VAN": "Request Gun Van",
   "REQUEST_GUN_VAN_DESC": "Spawns the Gun Van near your position. This is local and cannot be seen by other players.",
+  "REQUEST_GUN_VAN_NOTIFY_FAILED": "Couldn't find a suitable spawn point for the Gun Van, try moving to a different location.",
+  "REQUEST_GUN_VAN_NOTIFY_SUCCESS": "The Gun Van is now spawned near your location, keep in mind that this is local and cannot be seen by other players.",
   "REQUEST_KOSATKA": "Requests Kosatka",
   "REQUEST_KOSATKA_DESC": "Requests the Kosatka",
   "REQUEST_MOC": "Request M.O.C",
