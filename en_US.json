@@ -857,6 +857,8 @@
   "OUTFIT_UPPR": "UPPR",
   "OUTFIT_WATCH": "WATCH",
   "OUTFIT_WRIST": "WRIST",
+  "OVERRIDE_SPECTATE_CAM_DISTANCE": "Override Camera Distance",
+  "OVERRIDE_SPECTATE_CAM_DISTANCE_INT": "Distance",
   "PASSIVE": "Passive Mode",
   "PASSIVE_DESC": "Instantly toggle passive mode",
   "PEARLESCENT": "Pearlescent",
