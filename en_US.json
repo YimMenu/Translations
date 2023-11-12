@@ -1119,6 +1119,7 @@
   "SELF": "Self",
   "SEMI_GODMODE": "Semi-Godmode",
   "SEND": "Send",
+  "SEND_FRIEND_REQUEST": "Send Friend Request",
   "SEND_MSG": "Send Message",
   "SEND_SEXT": "Send Sext",
   "SEND_SEXT_DESC": "Sends a random sext (with an image attachment) to the player",
