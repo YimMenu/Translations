@@ -1164,6 +1164,8 @@
   "SETTINGS_ESP_PLAYER_NAME": "Show Player Name",
   "SETTINGS_ESP_SCALE_ARMOR": "Should Armor bar Scale with Distance",
   "SETTINGS_ESP_SCALE_HEALTH": "Should Health bar Scale with Distance",
+  "SETTINGS_ESP_SKELETON": "Skeleton ESP",
+  "SETTINGS_ESP_SKELETON_RENDER_DISTANCE": "Skeleton Render Distance (min, max)",
   "SETTINGS_ESP_TRACER": "Tracer",
   "SETTINGS_ESP_TRACER_POSITION": "Tracer Draw Position (x, y)",
   "SETTINGS_ESP_TRACER_RENDER_DISTANCE": "Tracer Render Distance (min, max)",
