@@ -684,6 +684,7 @@
   "IPL_CNT": "IPL Count {}",
   "IPL_INFOS": "IPL Information",
   "IPL_POSITION": "Position X: {} | Y: {} | Z: {}",
+  "IS_A_SPAMMER": "Is a spammer.",
   "IS_MODDER": "Is Modder",
   "IS_TEAM": "Is Team",
   "JOIN": "Join",
@@ -1336,6 +1337,8 @@
   "TP_TO_WAREHOUSE": "TP To Warehouse",
   "TP_TO_WAREHOUSE_DESC": "Teleports the player to the specified warehouse index",
   "TRAIN_SPEED": "Train Speed",
+  "TRANSACTION_RATE_LIMIT": "Transaction Rate Limit",
+  "TRANSACTION_RATE_LIMIT_MESSAGE": "You're receiving transaction rate limits, whatever you're doing do it less.",
   "TRIGGER_BUNKER_RAID": "Trigger Bunker Raid",
   "TRIGGER_CEO_RAID": "Trigger Special Cargo Raid",
   "TRIGGER_CEO_RAID_DESC": "The player has to be in a CEO for this to work",
@@ -1933,5 +1936,6 @@
   "WHEEL_TYPE": "Wheel Type",
   "WINDOW_TINT": "Window Tint",
   "WRITE": "Write",
-  "YES": "Yes"
+  "YES": "Yes",
+  "YOU_HAVE_BEEN_KICKED": "You have been kicked by the host"
 }
