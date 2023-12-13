@@ -118,6 +118,8 @@
   "BACKEND_LOOPED_SYSTEM_VOICE_CHAT_AUDIO": "Play Audio Through Voice Chat",
   "BACKEND_LOOPED_SYSTEM_VOICE_CHAT_AUDIO_DESC": "Plays the audio.wav file in the project folder through voice chat. The wave file must be encoded with a mono 16 bit 16kHz PCM format. You have to reset voice chat settings whenever you load the menu for the sound to play.",
   "BACKEND_LOOPED_VEHICLE_AUTO_DRIVE_STOPPED": "Auto Drive Stopped",
+  "BACKEND_LOOPED_VEHICLE_ABILITY_GLIDER": "Oppressor Mk 1",
+  "BACKEND_LOOPED_VEHICLE_ABILITY_GLIDER_DESC": "Applies the Oppressor Mk 1's gliding ability to your vehicle. This only works for motorcycles and bikes.",
   "BACKEND_LOOPED_VEHICLE_ABILITY_JUMP": "Jump",
   "BACKEND_LOOPED_VEHICLE_ABILITY_JUMP_DESC": "Applies the Ruiner 2000's jumping-ability to your vehicle.",
   "BACKEND_LOOPED_VEHICLE_ABILITY_PARACHUTE": "Parachute",
