@@ -541,6 +541,8 @@
   "GODMODE_DESC": "Prevents you from taking any form of damage",
   "GOD_MODE": "God Mode",
   "GOLF": "Golf",
+  "GRACEFUL_LANDING": "Graceful Landing",
+  "GRACEFUL_LANDING_DESC": "No falling animation, removes slow falling, and always land on feet",
   "GRAVITY_EARTH": "Earth",
   "GRAVITY_JUPITER": "Jupiter",
   "GRAVITY_LEVEL": "Gravity Level",
