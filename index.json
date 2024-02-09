@@ -18,6 +18,10 @@
             "name": "Français (FR)",
             "file": "fr_FR.json"
         },
+        "it_IT": {
+            "name": "Italiano (IT)",
+            "file": "it_IT.json"
+        },
         "pt_BR": {
             "name": "Portuguese (BR)",
             "file": "pt_BR.json"
