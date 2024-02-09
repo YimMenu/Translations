@@ -295,6 +295,7 @@
   "BLOCK_MUGGERS": "Block Muggers",
   "BLOCK_MUGGERS_DESC": "For the entire session",
   "BLOCK_RID_JOINING": "Block RID Joining",
+  "BLOCK_TRAFFIC_MANIPULATION": "Block Traffic Manipulation",
   "BLOCK_RID_JOINING_DESCRIPTION": "This will block anyone trying to join, kick or crash you with your Rockstar ID, including your friends. Other modders can detect this on you.",
   "BOOST_BEHAVIOR": "Boost Behavior",
   "BOUNTY": "Bounty",
