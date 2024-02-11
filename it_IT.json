@@ -24,7 +24,7 @@
   "BLOCK_MUGGERS_DESC": "Per l'intera sessione",
   "BLOCK_JOBS": "Blocca lavori",
   "BLOCK_JOBS_DESC": "Impedisci ai giocatori remoti di avviare lavori durante la tua sessione",
-  "BLOCK_JOIN_ALERT": "Avviso di blocco iscrizione",
+  "BLOCK_JOIN_ALERT": "Avviso blocco dell'entrata",
   "BLOCK_JOIN_INFO": "Bloccato l'accesso a {}",
   "BLOCK_JOIN_PREVENT_PLAYER_JOIN": "Cercando di impedire a {} di unirsi...",
   "BLOCK_JOIN": "Blocca unione",
