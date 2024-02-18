@@ -37,6 +37,9 @@
         "zh_TW": {
             "name": "Chinese (TW)",
             "file": "zh_TW.json"
+        "ko_KR": {
+            "name": "한국어 (KR)",
+            "file": "ko_KR.json"
         }
     }
 }
