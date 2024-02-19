@@ -1,5 +1,5 @@
 {
-    "version": 73,
+    "version": 74,
     "default_lang": "en_US",
     "translations": {
         "de_DE": {
@@ -37,6 +37,10 @@
         "zh_TW": {
             "name": "Chinese (TW)",
             "file": "zh_TW.json"
+        },
+        "ko_KR": {
+            "name": "Korean (KR)",
+            "file": "ko_KR.json"
         }
     }
 }
