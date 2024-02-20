@@ -28,7 +28,7 @@
         },
         "ru_RU": {
             "alphabet_type": "cyrillic",
-            "name": "Русский (RU)",
+            "name": "Russian (RU)",
             "file": "ru_RU.json"
         },
         "zh_CN": {
