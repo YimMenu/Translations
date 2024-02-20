@@ -1,5 +1,5 @@
 {
-    "version": 74,
+    "version": 75,
     "default_lang": "en_US",
     "translations": {
         "de_DE": {
@@ -27,18 +27,22 @@
             "file": "pt_BR.json"
         },
         "ru_RU": {
-            "name": "Русский (RU)",
+            "alphabet_type": "cyrillic",
+            "name": "Russian (RU)",
             "file": "ru_RU.json"
         },
         "zh_CN": {
+            "alphabet_type": "chinese",
             "name": "Chinese (CN)",
             "file": "zh_CN.json"
         },
         "zh_TW": {
+            "alphabet_type": "chinese",
             "name": "Chinese (TW)",
             "file": "zh_TW.json"
         },
         "ko_KR": {
+            "alphabet_type": "korean",
             "name": "Korean (KR)",
             "file": "ko_KR.json"
         }
