@@ -1,5 +1,5 @@
 {
-    "version": 86,
+    "version": 87,
     "default_lang": "en_US",
     "translations": {
         "de_DE": {
@@ -47,6 +47,7 @@
             "file": "ko_KR.json"
         },
         "tr_TR": {
+            "alphabet_type": "turkish",
             "name": "Turkish (TR)",
             "file": "tr_TR.json"
         }
