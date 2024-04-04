@@ -1315,7 +1315,7 @@
   "SUPER_JUMP_DESC": "Sauter vraiment haut",
   "SUPER_RUN": "Super course",
   "SUPER_RUN_DESC": "Vous fait courir beaucoup plus vite",
-  "TELEPORT": "Vers lui",
+  "TELEPORT": "Téléportation",
   "TELEPORT_DESC": "Vous téléporte vers le joueur",
   "TELEPORT_FAILED_TO_TAKE_CONTROL": "Impossible de prendre le contrôle de l'entité.",
   "TELEPORT_INTO_VEHICLE": "Dans son véhicule",
