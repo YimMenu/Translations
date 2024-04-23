@@ -42,8 +42,6 @@
   "BACKEND_LOCK_VEHICLE_DESC": "Zamyka drzwi pojazdu.",
   "BACKEND_LOOPED_AUTO_TP_TO_WAYPOINT": "Auto-teleportuj do punktu docelowego",
   "BACKEND_LOOPED_AUTO_TP_TO_WAYPOINT_DESC": "Automatycznie teleportuje Cie do punktu docelowego, gdy tylko ustalisz jeden na mapie.",
-  "BACKEND_LOOPED_FLYING_AXE": "Latajacy TOPOREK",
-  "BACKEND_LOOPED_FLYING_AXE_DESC": "Przywołuje śmiercionośny, wirujący topór wokół ciebie, który powoduje chaos i zniszczenie.",
   "BACKEND_LOOPED_HUD_TRANSITION_STATE_CANCEL_JOINING": "Anuluj dolaczanie",
   "BACKEND_LOOPED_HUD_TRANSITION_STATE_CONFIRM_FREEMODE_SESSION_JOINING": "Potwierdz dolaczenie do sesji swobodnej",
   "BACKEND_LOOPED_HUD_TRANSITION_STATE_CONFIRM_TESTBED_SESSION_JOINING": "Potwierdz dolaczenie do sesji testowej",
