@@ -22,6 +22,10 @@
             "name": "Italiano (IT)",
             "file": "it_IT.json"
         },
+        "pl_PL": {
+            "name": "Polski (PL)",
+            "file": "pl_PL.json"
+        },
         "pt_BR": {
             "name": "Portuguese (BR)",
             "file": "pt_BR.json"
