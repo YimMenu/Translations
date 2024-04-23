@@ -256,7 +256,7 @@
   "BACKEND_START_SCRIPT_START_QUB3D_DESC": "Uruchamia gre arcade QUB3D na pelnym ekranie.",
   "BACKEND_START_SCRIPT_START_SPACE_MONKEY": "Uruchom Space Monkey 3",
   "BACKEND_START_SCRIPT_START_SPACE_MONKEY_DESC": "Uruchamia gre arcade Space Monkey 3 na pelnym ekranie.",
-  "BACKEND_START_SCRIPT_START_TUTORIAL": "Rozpocznij samouczek"{
+  "BACKEND_START_SCRIPT_START_TUTORIAL": "Rozpocznij samouczek",
   "BACKEND_START_SCRIPT_START_TUTORIAL_DESC": "Odtwarza te niemozliwa do pominiecia scene przerywnikowa uzywana w samouczku.",
   "BACKEND_START_SCRIPT_START_WIZARD": "Uruchom gre The Wizard's Ruin",
   "BACKEND_START_SCRIPT_START_WIZARD_DESC": "Uruchamia gre arkadowa The Wizard's Ruin na pelnym ekranie.",
@@ -356,7 +356,7 @@
   "COLLISION": "Kolizja",
   "COLOR_OPTIONS": "Opcje koloru",
   "COMPLAINT_KICK": "Desync Kick",
-  "COMPLAINT_KICK_DESC": "Moze to zajac okolo 10 sekund, aby wyrzucic gracza. Nie dziala przeciwko gospodarzowi"{
+  "COMPLAINT_KICK_DESC": "Moze to zajac okolo 10 sekund, aby wyrzucic gracza. Nie dziala przeciwko gospodarzowi",
   "COPY": "Kopiuj",
   "COPY_SESSION_INFO": "Skopiuj informacje o sesji",
   "CORE_GUI_COMPONENTS_DISABLED": "Wylaczone",
@@ -756,7 +756,7 @@
   "LOBBY_LOCK_DENIED": "Gracz o nazwie {} zostal odrzucony",
   "LOBBY_LOCK_DESC": "Blokuj wszystkich graczy przed dolaczeniem. Nie dziala moze dzialac na niektorych MODDERow.",
   "LOCAL_CAUTOMOBILE": "Lokalne CAutomobile",
-  "LOCAL_CNETGAMEPLAYER": "Lokalny CNetGamePlayer"{
+  "LOCAL_CNETGAMEPLAYER": "Lokalny CNetGamePlayer",
   "LOCAL_CPED": "Lokalny CPed",
   "LOCAL_CPLAYERINFO": "Lokalne CPlayerInfo",
   "LOCAL_NETPLAYERDATA": "Lokalne dane gracza w sieci",
