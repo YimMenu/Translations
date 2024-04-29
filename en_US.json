@@ -1405,6 +1405,7 @@
   "VEHICLE_ALL_WEAPONS_DESC": "Allows you to use all weapons in vehicle",
   "VEHICLE_CLASS": "Vehicle Class",
   "VEHICLE_CONTROLLER": "Vehicle Controller",
+  "VEHICLE_CONTROLLER_DESC": "Opens a new window with additional configurable vehicle settings",
   "VEHICLE_CONTROLLER_ALL_DOORS": "All doors",
   "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_RUNNING": "Run",
   "VEHICLE_CONTROLLER_ENTER_VEHICLE_SPEED_SPRINTING": "Sprint",
