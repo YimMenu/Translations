@@ -460,6 +460,8 @@
   "EMPTY_SESSION": "Empty Session",
   "ENABLE": "Enable",
   "ENABLE_ALL_LUA_SCRIPTS": "Enable All Lua Scripts",
+  "ENABLE_BOTH_MK1_AND_MK2_VARIANTS": "Enable MK1 and MK2 Weapons",
+  "ENABLE_BOTH_MK1_AND_MK2_VARIANTS_DESC": "This will disable the game from removing the MK1 variant weapon from your inventory if you have the MK2 variant as well.\nUse Ammunation on this page to add the MK1 variant.",
   "ENABLED": "Enabled",
   "ENABLED_LUA_SCRIPTS": "Enabled Lua Scripts:",
   "ENABLE_SPECIAL_AMMO": "Enable Special Ammo",
