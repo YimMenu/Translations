@@ -1430,6 +1430,8 @@
   "VEHICLE_FOLDER_NAME_EXAMPLE": "Ex: My Cool Car Collection (Leave this blank for Root)",
   "VEHICLE_GOD": "Vehicle God Mode",
   "VEHICLE_GOD_DESC": "Prevents your vehicle from taking any form of damage",
+  "VEHICLE_INFINITE_AMMO": "Vehicle Infinite Ammo",
+  "VEHICLE_INFINITE_AMMO_DESC": "Infinite vehicle rockets, bombs, and countermeasures",
   "VEHICLE_INVALID": "Entity is not a vehicle.",
   "VEHICLE_INVISIBILITY": "Vehicle Invisibility",
   "VEHICLE_INVISIBILITY_DESC": "Makes your car invisible",
