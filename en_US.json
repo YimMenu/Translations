@@ -539,6 +539,7 @@
   "GIVE_AMMO_DESC": "Gives the player some ammo",
   "GIVE_ARMOR": "Give Armor",
   "GIVE_ARMOR_DESC": "Gives the player some armor",
+  "GIVE_COLLECTIBLE": "Give collectible",
   "GIVE_HEALTH": "Give Health",
   "GIVE_HEALTH_DESC": "Gives the player some health",
   "GIVE_WEAPONS": "Give Weapons",
