@@ -1,5 +1,5 @@
 {
-    "version": 84,
+    "version": 91,
     "default_lang": "en_US",
     "translations": {
         "de_DE": {
@@ -21,6 +21,10 @@
         "it_IT": {
             "name": "Italiano (IT)",
             "file": "it_IT.json"
+        },
+        "pl_PL": {
+            "name": "Polish (PL)",
+            "file": "pl_PL.json"
         },
         "pt_BR": {
             "name": "Portuguese (BR)",
@@ -45,6 +49,11 @@
             "alphabet_type": "korean",
             "name": "Korean (KR)",
             "file": "ko_KR.json"
+        },
+        "tr_TR": {
+            "alphabet_type": "turkish",
+            "name": "Turkish (TR)",
+            "file": "tr_TR.json"
         }
     }
 }
