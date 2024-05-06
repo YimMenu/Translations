@@ -1078,6 +1078,7 @@
   "REACTION_SPECTATING_OTHERS_NOTIFY": "{} is spectating {}!",
   "REACTION_START_ACTIVITY_ANNOUNCE": "Blocked Start Activity from {}",
   "REACTION_START_ACTIVITY_NOTIFY": "Blocked Start Activity from {}",
+  "REACTION_START_SCRIPT_ALLOWED": "Allowed Start Script from {}",
   "REACTION_START_SCRIPT_ANNOUNCE": "Blocked Start Script from {}",
   "REACTION_START_SCRIPT_NOTIFY": "Blocked Start Script from {}",
   "REACTION_TELEPORT_TO_WAREHOUSE_ANNOUNCE": "{} tried to teleport me to a warehouse!",
