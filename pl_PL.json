@@ -416,7 +416,7 @@
   "DEBUG_LOG_SCRIPT_EVENT": "Wlacz logowanie zdarzen skryptu",
   "DEBUG_LOG_SCRIPT_EVENT_FILTER_BY_PLAYER": "Filtruj wedlug gracza",
   "DEBUG_LOG_TREE_SCRIPT_EVENT": "Logowanie zdarzen skryptu",
-  "DEBUG_REMOVE_FROM_BAD_SPORT": "Usun z zlych sportow",
+  "DEBUG_E_FROM_BAD_SPORT": "Usun z zlych sportow",
   "DEBUG_SCRIPTS_SUB_TITLE": "Te skrypty sa odpowiedzialne za wszystkie petle funkcji.\nWylacz tylko jesli wiesz, co robisz.",
   "DEBUG_SCRIPT_EVENT_ARG": "Arg[%d]",
   "DEBUG_SCRIPT_EVENT_ARG_COUNT": "Liczba argumentow skryptu:",
