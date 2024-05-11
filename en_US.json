@@ -1396,7 +1396,7 @@
   "TRANSLATOR_SHOW_ON_CHAT": "Show on chat",
   "TRANSLATOR_TARGET_LANGUAGE": "Target",
   "TRANSLATOR_TOGGLE": "Chat translator",
-  "TRANSLATOR_TOGGLE_DESC": "Translate chat messages from other players to your language."
+  "TRANSLATOR_TOGGLE_DESC": "Translate chat messages from other players to your language.",
   "TRIGGER_BUNKER_RAID": "Trigger Bunker Raid",
   "TRIGGER_CEO_RAID": "Trigger Special Cargo Raid",
   "TRIGGER_CEO_RAID_DESC": "The player has to be in a CEO for this to work",
