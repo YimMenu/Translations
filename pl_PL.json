@@ -361,7 +361,7 @@
   "COLLISION": "Kolizja",
   "COLOR_OPTIONS": "Opcje koloru",
   "COMPLAINT_KICK": "Desync Kick",
-  "COMPLAINT_KICK_DESC": "Moze to zajac okolo 10 sekund, aby wyrzucic gracza. Nie dziala przeciwko gospodarzowi"{
+  "COMPLAINT_KICK_DESC": "Moze to zajac okolo 10 sekund, aby wyrzucic gracza. Nie dziala przeciwko gospodarzowi",
   "COPY": "Kopiuj",
   "COPY_SESSION_INFO": "Skopiuj informacje o sesji",
   "CORE_GUI_COMPONENTS_DISABLED": "Wylaczone",
@@ -765,7 +765,7 @@
   "LOBBY_LOCK_DENIED": "Gracz o nazwie {} zostal odrzucony",
   "LOBBY_LOCK_DESC": "Blokuj wszystkich graczy przed dolaczeniem. Nie dziala moze dzialac na niektorych MODDERow.",
   "LOCAL_CAUTOMOBILE": "Lokalne CAutomobile",
-  "LOCAL_CNETGAMEPLAYER": "Lokalny CNetGamePlayer"{
+  "LOCAL_CNETGAMEPLAYER": "Lokalny CNetGamePlayer",
   "LOCAL_CPED": "Lokalny CPed",
   "LOCAL_CPLAYERINFO": "Lokalne CPlayerInfo",
   "LOCAL_NETPLAYERDATA": "Lokalne dane gracza w sieci",
