@@ -1253,6 +1253,7 @@
   "SPOOFING_HIDE_FEATURES": "Hide Features",
   "SPOOFING_HIDE_GOD_MODE": "Hide God Mode",
   "SPOOFING_HIDE_SPECTATE": "Hide Spectate",
+  "SPOOFING_HIDE_VEH_GOD_MODE": "Hide Vehicle God Mode",
   "SPOOFING_ONLY_WORKS_AS_HOST": "Only works when session host",
   "SPOOFING_SESSION_ATTRIBUTES": "Session Attributes",
   "SPOOF_BADSPORT": "Spoof Badsport State",
