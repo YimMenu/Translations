@@ -39,8 +39,9 @@ jobs:
           git push ${{ github.event.pull_request.head.repo.html_url }} ${{ github.event.pull_request.head.ref }}
 
       - name: Post util validate
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.YIM_NPC_COMMENT_TOKEN }}
           script: |
             const fs = require('fs');
             const process = require('process');
