@@ -1414,7 +1414,6 @@
   "VEHICLE_FLY_DESC": "모든 땅 차량으로 비행합니다.",
   "VEHICLE_FOLDER_NAME": "차량 폴더 이름",
   "VEHICLE_FOLDER_NAME_EXAMPLE": "예: 내 멋진 차 모음 (루트의 경우 비워 두세요)",
-  "VEHICLE_GOD": "차량 무적",
   "VEHICLE_GOD_DESC": "차량이 어떤 형태의 피해도 입지 않게 합니다.",
   "VEHICLE_INVALID": "개인 차량을 찾을 수 없습니다. 먼저 차량을 불러보세요.",
   "VEHICLE_INVISIBILITY": "차량 투명화",
