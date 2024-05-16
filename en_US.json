@@ -762,6 +762,7 @@
   "MC_TELEPORT": "MC Teleport",
   "MELEE": "Melee",
   "METRIC": "Metric",
+  "METRIC_WARNING": "Show Metric Warnings",
   "METRIC_WARNING_MESSAGE": "Blocked Metric",
   "MERRYWEATHER": "Merryweather",
   "METALS": "Metals",
