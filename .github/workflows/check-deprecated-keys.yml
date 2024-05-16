@@ -11,7 +11,7 @@ jobs:
       -
         name: Checkout current translations
         uses: actions/checkout@v4
-      
+
       -
         name: Checkout YimMenu source code
         uses: actions/checkout@v4
@@ -19,11 +19,11 @@ jobs:
           repository: YimMenu/YimMenu
           path: src
           sparse-checkout: src
-      
+
       -
         name: Prepare data directory
         run: mkdir -p data && cp -f en_US.json data/
-      
+
       -
         name: Start deprecation check
         uses: YimMenu/DeprecateTranslations@master
