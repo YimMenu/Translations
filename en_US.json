@@ -645,7 +645,7 @@
   "HANDLING_TRANSMISSION_OUTPUT": "Transmission Output (force)",
   "HANDLING_UPSHIFT_MULTIPLIER": "Upshift Multiplier",
   "HARASS_PLAYERS": "Harass Players",
-  "HARASS_PLAYERS_DESC": "Makes other players think that you are following them. This will break all freemode activities and missions",
+  "HARASS_PLAYERS_DESC": "Makes other players think that you are following them. This will break all freemode activities and missions. This may also trap players in some garages",
   "HEADING_WELCOME": "Welcome",
   "HEADLIGHT": "Headlight",
   "HEAL": "Heal",
