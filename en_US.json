@@ -1120,6 +1120,7 @@
   "RGB_TYPE": "RGB Type",
   "RID": "Rockstar ID",
   "RID_JOINER": "Rid Joiner",
+  "RID_JOINER_INVITE_OFFLINE":"Target player could not be invited, they might be offline?",
   "RID_JOINER_PLAYER_OFFLINE": "Target player is offline?",
   "RID_JOINER_SWITCH_IN_PROGRESS": "Player switch in progress, wait a bit.",
   "RID_JOINER_UNABLE_MAINTRANSITION": "Unable to launch maintransition",
