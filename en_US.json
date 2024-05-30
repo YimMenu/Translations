@@ -34,6 +34,7 @@
   "BACKEND_FLIP_DESC": "Turns the car around.",
   "BACKEND_FLYING_VEHICLE": "Flying Vehicle",
   "BACKEND_FLYING_VEHICLE_DESC": "Allows the player to fly the car with the mouse and keyboard.",
+  "BACKEND_FLYING_VEHICLE_FPV_DISABLED": "First-person view is currently unsupported in Vehicle Fly mode.",
   "BACKEND_GTA_WINDOW_HOOK": "GTA Window Hook",
   "BACKEND_GTA_WINDOW_HOOK_DESC": "Only enable this if you know what you are doing. This will prevent AutoHotKey scripts from working.",
   "BACKEND_HOST_KICK_FAILED": "Host kick failed!",
