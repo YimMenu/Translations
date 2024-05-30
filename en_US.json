@@ -997,6 +997,8 @@
   "REACTION_CEO_MONEY_ANNOUNCE": "{} tried to drop money on me!",
   "REACTION_CEO_MONEY_NOTIFY": "Blocked CEO Money from {}",
   "REACTION_CHAT": "Announce In Chat",
+  "REACTION_CHAT_SPAM_NOTIFY": "Blocked Chat Spam from {}",
+  "REACTION_CHAT_SPAM_ANNOUNCE": "{} is spammer",
   "REACTION_CLEAR_PED_TASKS_ANNOUNCE": "{} tried to freeze me!",
   "REACTION_CLEAR_PED_TASKS_NOTIFY": "Blocked Clear Ped Tasks from {}",
   "REACTION_CLEAR_WANTED_LEVEL_ANNOUNCE": "{} tried to clear my wanted level!",
