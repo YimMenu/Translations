@@ -1314,7 +1314,7 @@
     "MODIFY_VEHICLE_ABILITY": "Fahrzeugfähigkeiten modifizieren",
     "MODIFY_VEHICLE_ABILITY_DESC": "Besondere Merkmale auf dein Fahrzeug anwenden",
     "NOTIFICATION_CRASH_TYPE_BLOCKED": "{} versuchte mich zum Absturz zu bringen mit {}!",
-    "NO_IDLE_KICK_DESC": "Verhindert, dass du im Stillstand gekickt wirst.",
+    "NO_IDLE_KICK_DESC": "Verhindert, dass du während Abwesenheit gekickt wirst.",
     "OCEAN_OPACITY": "Opazität des Ozeans",
     "ONBOARDING_ENABLE_DEVELOPER_CONSOLE": "Möchtest du die Entwicklerkonsole ausblenden?",
     "ONBOARDING_NOTIFICATION_TITLE": "Onboarding",
