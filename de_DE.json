@@ -1389,6 +1389,7 @@
     "REACTION_REQUEST_CONTROL_NOTIFY": "Blockierte Anfrage Kontrollereignis von {}",
     "REACTION_ROTATE_CAM_ANNOUNCE": "{} versuchte meine Kamera zu manipulieren!",
     "REACTION_ROTATE_CAM_NOTIFY": "Blockierte Kamera drehen von {}",
+    "REACTION_CHAT_SPAM_NOTIFY": "Blockierter Chat-Spam von {}",
     "REACTION_SEND_TO_CUTSCENE_ANNOUNCE": "{} versuchte mich in eine Zwischenszene zu zwingen!",
     "REACTION_SEND_TO_CUTSCENE_NOTIFY": "Blockierte Senden an Zwischensequenz von {}",
     "REACTION_SEND_TO_INTERIOR_ANNOUNCE": "{} versuchte mich zu einem Innenraum zu schicken.!",
