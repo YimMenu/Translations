@@ -936,6 +936,7 @@
     "UNLIMITED_OXYGEN": "Unendlich Sauerstoff",
     "UNLOAD": "[Entladen]",
     "USER_DESYNC_KICKED": "Du wurdest desync-gekickt",
+    "USER_DESYNC_KICKED_REJOIN": "Du wurdest desync-gekickt. Der vorherigen Sitzung wird wieder beigetreten...",
     "USERNAME": "Benutzername",
     "VEHICLE_ALLOW_ALL_IN_HEISTS": "Alle Fahrzeuge erlauben",
     "VEHICLE_ALLOW_ALL_IN_HEISTS_DESC": "Erlaubt alle Fahrzeuge, die nicht für Raubüberfälle oder Missionen verwendet werden dürfen",
