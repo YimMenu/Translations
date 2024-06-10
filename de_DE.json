@@ -1,4 +1,4 @@
-{
+Der vorherigen Sitzung wieder beitreten{
     "ADD": "Hinzufügen",
     "ADDRESSES": "Addressen",
     "ADMIN_CHECK": "Admin Überprüfung",
@@ -487,7 +487,7 @@
     "MODIFY_TIME": "Zeit ändern",
     "MORS_FIX_ALL": "Mors Mutual alle Fahrzeuge reparieren",
     "MORS_MUTUAL": "Mors Mutual",
-    "SMART_KICK": "Smart Kick",
+    "SMART_KICK": "Schlauer Kick",
     "SMART_KICK_DESC": "Kickt den Spieler auf die geeignetste Weise",
     "MUTE_SIREN": "Sirene stummschalten",
     "MUTE_SIREN_DESC": "Deaktiviert den Sirenenton von Einsatzfahrzeugen",
