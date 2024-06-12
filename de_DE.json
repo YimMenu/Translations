@@ -515,7 +515,7 @@
     "NO_CLIP": "Noclip",
     "NOCLIP_AIM_SPEED_MULTIPLIER": "Noclip Bewegungsgeschwindigkeits-Multiplikator während des Anvisierens",
     "NOCLIP_SPEED_MULTIPLIER": "Noclip Bewegungsgeschwindigkeit Multiplikator",
-    "NO_COLLISION_DESC": "Ermöglicht es Dir, durch Fahrzeuge und die meisten Hindernisse zu gehen",
+    "NO_COLLISION_DESC": "Ermöglicht es dir, durch Fahrzeuge und die meisten Hindernisse zu gehen",
     "NO_COLLISION": "Keine Kollision",
     "NO_COLLISION_VEHICLE": "Keine Kollision",
     "NO_COLLISION_VEHICLE_DESC": "Gleich wie Fußgänger keine Kollision, außer dass dies global ist und auch Fußgänger betrifft",
