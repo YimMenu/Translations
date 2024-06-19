@@ -476,6 +476,8 @@
   "ESP_BULLET": "BULLET",
   "ESP_EXPLOSION": "EXPLOSION",
   "ESP_GOD": "GOD",
+  "EXCLUDE_MODDER_SESSIONS": "Exclude Modder Sessions",
+  "EXCLUDE_MODDER_SESSIONS_DESC": "Excludes hosts that you have blocked in the Player Database",
   "EXIT_TRAIN": "Exit Train",
   "EXPLODE_ALL": "Explode Everyone",
   "EXPLODE_PLAYER": "Explode Player",
