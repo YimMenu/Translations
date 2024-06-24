@@ -426,7 +426,7 @@
     "KEEP_VEHICLE_FIXED_DESC": "Hält dein Fahrzeug frei von Verschleiß und Abnutzung",
     "KEEP_VEHICLE_REPAIRED": "Fahrzeug repariert lassen ist eingeschaltet, deaktiviere es, um den Fahrzeugzustand zu ändern",
     "KICK_ALL_FROM_INTERIORS": "Alle vom Innenraum kicken",
-    "KICK_FROM_INTERIOR_DESC": "Kickt den Spieler aus dem Innemraum in welchem er drinnen ist",
+    "KICK_FROM_INTERIOR_DESC": "Kickt den Spieler aus dem Innenraum in welchem er drinnen ist",
     "KICK_FROM_INTERIOR": "Aus dem Innenraum kicken",
     "KICK_HOST_ON_JOIN": "Host beim beitreten kicken",
     "KICK": "Kicken",
