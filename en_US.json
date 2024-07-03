@@ -1024,6 +1024,8 @@
   "REACTION_CLEAR_WANTED_LEVEL_NOTIFY": "Blocked Clear Wanted Level from {}",
   "REACTION_CRASH_ANNOUNCE": "{} tried to crash me!",
   "REACTION_CRASH_NOTIFY": "Blocked Crash from {}",
+  "REACTION_DELETE_VEHICLE_NOTIFY": "Blocked {} from deleting our vehicle.",
+  "REACTION_DELETE_VEHICLE_NOTIFY_ANNOUNCE": "{} tried to delete my vehicle!",
   "REACTION_DESTROY_PERSONAL_VEHICLE_ANNOUNCE": "{} tried to destroy my personal vehicle!",
   "REACTION_DESTROY_PERSONAL_VEHICLE_NOTIFY": "Blocked Destroy Personal Vehicle from {}",
   "REACTION_END_SESSION_KICK_NOTIFY": "Blocked End Session Kick from {}",
