@@ -2049,5 +2049,9 @@
   "WHEEL_TYPE": "轮胎类型",
   "WINDOW_TINT": "窗户色调",
   "YES": "是",
-  "YOU_HAVE_BEEN_KICKED": "你已被战局主机踢出"
+  "YOU_HAVE_BEEN_KICKED": "你已被战局主机踢出",
+  "TELEPORT_PLAYER_TO_PLAYER": "传送到玩家",
+  "TELEPORT_PLAYER_TO_PLAYER_DESC": "将第一个玩家传送到第二个玩家",
+  "TELEPORT_PLAYER_TO_PLAYER_NOTIFICATION": "正在将 {} 传送到 {}",
+  "INVALID_PLAYER_NAME_NOTIFICATION": "玩家名称无效"
 }
