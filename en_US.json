@@ -2045,5 +2045,9 @@
   "WHEEL_TYPE": "Wheel Type",
   "WINDOW_TINT": "Window Tint",
   "YES": "Yes",
-  "YOU_HAVE_BEEN_KICKED": "You have been kicked by the host"
+  "YOU_HAVE_BEEN_KICKED": "You have been kicked by the host",
+  "TELEPORT_PLAYER_TO_PLAYER": "Teleport to Player",
+  "TELEPORT_PLAYER_TO_PLAYER_DESC": "Teleport first player to the second",
+  "TELEPORT_PLAYER_TO_PLAYER_NOTIFICATION": "Teleporting {} to {}",
+  "INVALID_PLAYER_NAME_NOTIFICATION": "Invalid player name(s)"
 }
