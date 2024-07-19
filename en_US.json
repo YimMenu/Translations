@@ -1489,7 +1489,7 @@
   "TRUST_SESSION": "Trust this session",
   "TRUST_SESSION_DESC": "Players in this session won't be flagged as modders or taken actions by reactions",
   "TSE_FREEZE": "TSE Freeze",
-  "TSE_FREEZE_MISMATCH": "Install Mismatch of Script Event",
+  "TSE_SENDER_MISMATCH": "TSE Sender Mismatch",
   "TURBO": "Turbo",
   "TURN_ENGINE_OFF": "Turn Engine Off",
   "TURN_ENGINE_ON": "Turn Engine On",
