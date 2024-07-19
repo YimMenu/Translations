@@ -1075,6 +1075,7 @@
   "REACTION_KICK_ATTACKER": "Kick Attacker",
   "REACTION_KICK_FROM_INTERIOR_ANNOUNCE": "{} tried to kick me from my interior!",
   "REACTION_KICK_FROM_INTERIOR_NOTIFY": "Blocked Kick From Interior from {}",
+  "REACTION_KICK_NOTIFY": "Blocked Kick from {}",
   "REACTION_KICK_PLAYER": "Kick Player",
   "REACTION_MC_TELEPORT_ANNOUNCE": "{} tried to teleport me!",
   "REACTION_MC_TELEPORT_NOTIFY": "Blocked MC Teleport from {}",

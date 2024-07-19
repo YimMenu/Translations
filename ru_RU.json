@@ -1075,6 +1075,7 @@
   "REACTION_KICK_ATTACKER": "Кикнуть атакующего",
   "REACTION_KICK_FROM_INTERIOR_ANNOUNCE": "{} попытался кикнуть меня из моего интерьера!",
   "REACTION_KICK_FROM_INTERIOR_NOTIFY": "Заблокирован кик из интерьера от {}",
+  "REACTION_KICK_NOTIFY": "Заблокирован кик от {}",
   "REACTION_KICK_PLAYER": "Кикнуть игрока",
   "REACTION_MC_TELEPORT_ANNOUNCE": "{} попытался телепортировать меня!",
   "REACTION_MC_TELEPORT_NOTIFY": "Заблокирован телепорт в мотоклуб от {}",
