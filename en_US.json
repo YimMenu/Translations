@@ -1317,7 +1317,7 @@
   "SKIP_CUTSCENE_DESC": "Skips the currently playing cutscene",
   "SLOT": "Slot",
   "SMART_KICK": "Smart Kick",
-  "SMART_KICK_DESC": "Kicks the player with the most appropriate method. \nIf you're host: Breakup \nIf target is host: OOM \nElse: Desync",
+  "SMART_KICK_DESC": "If you're host: Breakup \nIf target is host: OOM \nElse: Desync",
   "SMOKE": "Smoke",
   "SORTING": "Sorting",
   "SORT_BY": "Sort By",
