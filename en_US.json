@@ -758,7 +758,7 @@
   "KEEP_VEHICLE_REPAIRED": "Keep Vehicle Repaired is turned on, disable it to change the vehicle health.",
   "KICK": "Kick",
   "KICKED": "Kicked",
-  "KICKS": "Kicks",
+  "KICKS": "Network Kicks",
   "KICK_ALL_FROM_INTERIORS": "Kick Everyone From Interiors",
   "KICK_FROM_INTERIOR": "Kick From Interior",
   "KICK_FROM_INTERIOR_DESC": "Kicks the player from the interior they are in",
