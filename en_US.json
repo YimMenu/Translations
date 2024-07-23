@@ -1758,6 +1758,7 @@
   "VIEW_NET_PLAYER_DB_TRACK_PLAYER": "Track Player",
   "VIEW_NET_RIDJOINER_SESSION_INFO_INVALID": "Session info is invalid",
   "VIEW_NET_SESSION_FIX_VEHICLE": "Fix Vehicle",
+  "VIEW_OUTFIT_EDITOR_TIP": "Press CTRL + Left Click to directly edit the sliders.",
   "VIEW_OVERLAY_AIMBOT": "Aimbot",
   "VIEW_OVERLAY_ALWAYS_FULL_AMMO": "Always Full Ammo",
   "VIEW_OVERLAY_FPS": "FPS",
