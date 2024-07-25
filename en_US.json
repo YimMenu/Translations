@@ -187,6 +187,7 @@
   "BACKEND_LOOPED_WEAPONS_SMOOTHING_DESC": "Reduces the aimbot snapping to the target.",
   "BACKEND_LOOPED_WEAPONS_STEAL_VEHICLE_GUN": "Steal Vehicle Gun",
   "BACKEND_LOOPED_WEAPONS_TRIGGERBOT_DESC": "Automatically shoots peds when the crosshair is over them.",
+  "BACKEND_LOOPED_WEAPONS_USE_MAX_RANGE": "Use Weapon's Max Range",
   "BACKEND_LOOPED_WEAPONS_VEHICLE_GUN": "Vehicle Gun",
   "BACKEND_LOOPED_WORLD_BEACON_OBJECTIVE": "Objective Beacon",
   "BACKEND_LOOPED_WORLD_BEACON_OBJECTIVE_DESC": "Displays a vertical beam of light at your objective.",
