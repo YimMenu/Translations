@@ -500,6 +500,8 @@
   "ESP_GOD": "БОГ",
   "EXCLUDE_MODDER_SESSIONS": "Исключить сессии моддеров",
   "EXCLUDE_MODDER_SESSIONS_DESC": "Исключает хостов, заблокированных в вашей Базе Данных Игроков",
+  "EXCLUDE_MODDERS_FROM_KICK_HOST": "Исключить моддеров из кика хоста",
+  "EXCLUDE_MODDERS_FROM_KICK_HOST_DESC": "Не кикать хоста если он читер\nПроверьте реакции что бы они не срабатывали для хоста при присоединении",
   "EXIT_TRAIN": "Выйти из поезда",
   "EXPLODE_ALL": "Взорвать всех",
   "EXPLODE_PLAYER": "Взорвать игрока",

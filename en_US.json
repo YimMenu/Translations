@@ -500,6 +500,8 @@
   "ESP_GOD": "GOD",
   "EXCLUDE_MODDER_SESSIONS": "Exclude Modder Sessions",
   "EXCLUDE_MODDER_SESSIONS_DESC": "Excludes hosts that you have blocked in the Player Database",
+  "EXCLUDE_MODDERS_FROM_KICK_HOST": "Exclude Modders from Kick Host",
+  "EXCLUDE_MODDERS_FROM_KICK_HOST_DESC": "Excluding modder hosts from the kick\nCheck your reactions so they don't kick the host upon joining",
   "EXIT_TRAIN": "Exit Train",
   "EXPLODE_ALL": "Explode Everyone",
   "EXPLODE_PLAYER": "Explode Player",
