@@ -1518,6 +1518,7 @@
   "USER_DESYNC_KICKED": "You have been desync kicked.",
   "USER_DESYNC_KICKED_REJOIN": "You have been desync kicked. Rejoining previous session...",
   "USE_SPAM_TIMER": "Use Spam Timer",
+  "UTIL": "Util",
   "VEHICLE": "Vehicle",
   "VEHICLES": "Vehicles",
   "VEHICLE_ABILITIES": "Vehicle Abilities",
@@ -2107,6 +2108,7 @@
   "WHEEL_COLOR": "Wheel Color",
   "WHEEL_TYPE": "Wheel Type",
   "WINDOW_TINT": "Window Tint",
+  "WORN": "Worn",
   "YES": "Yes",
   "YOU_HAVE_BEEN_KICKED": "You have been kicked by the host"
 }
