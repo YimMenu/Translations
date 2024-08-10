@@ -161,6 +161,8 @@
   "BACKEND_LOOPED_WEAPONS_AIM_ONLY_AT_ENEMY_DESC": "Aimbot will only target enemies.",
   "BACKEND_LOOPED_WEAPONS_AIM_ONLY_AT_PLAYER": "Only Players",
   "BACKEND_LOOPED_WEAPONS_AIM_ONLY_AT_PLAYER_DESC": "Aimbot will only target players.",
+  "BACKEND_LOOPED_WEAPONS_AIM_ONLY_AT_THREATS": "Only Threats",
+  "BACKEND_LOOPED_WEAPONS_AIM_ONLY_AT_THREATS_DESC": "Aimbot will only target entities that have weapons.",
   "BACKEND_LOOPED_WEAPONS_ALWAYS_FULL_AMMO": "Always Full Ammo",
   "BACKEND_LOOPED_WEAPONS_ALWAYS_FULL_AMMO_DESC": "Constantly refills your ammo.",
   "BACKEND_LOOPED_WEAPONS_CAGE_GUN_NO_ENTITY_FOUND": "No entity found.",
