@@ -1719,6 +1719,7 @@
   "VIEW_LUA_SCRIPTS_RELOAD": "Reload",
   "VIEW_LUA_SCRIPTS_RELOAD_ALL": "Reload All",
   "VIEW_LUA_SCRIPTS_SCRIPTS_REGISTERED": "Scripts Registered",
+  "VIEW_LUA_SCRIPTS_SCRIPT_PATCHES_REGISTERED": "Script Patches Registered",
   "VIEW_MODEL_SWAPPER_DEST": "Destination",
   "VIEW_MODEL_SWAPPER_INVALID_INDEX": "Invalid Index",
   "VIEW_MODEL_SWAPPER_LINE1": "Models that have already been created will not be affected much.",
