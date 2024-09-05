@@ -1,9 +1,9 @@
 {
-    "version": 124,
+    "version": 125,
     "default_lang": "en_US",
     "translations": {
         "de_DE": {
-            "name": "Deutsch",
+            "name": "Deutsch (DE)",
             "file": "de_DE.json"
         },
         "en_US": {
