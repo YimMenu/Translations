@@ -1198,7 +1198,7 @@
     "BACKEND_LOOPED_HUD_TRANSITION_STATE_WAIT_FOR_DIRTY_LOAD_CONFIRM": "Warten auf Bestätigung der schmutzigen Last",
     "BACKEND_LOOPED_HUD_TRANSITION_STATE_WAIT_FOR_SINGLEPLAYER_TO_START": "Warten auf den Start des Einzelspielers",
     "REQUIRES_SCRIPT_HOST": "Erfordert Skript-Host",
-    "BACKEND_LOOPED_HUD_TRANSITION_STATE_WAIT_FOR_SUMMON": "Auf Beschörung warten",
+    "BACKEND_LOOPED_HUD_TRANSITION_STATE_WAIT_FOR_SUMMON": "Auf Beschwörung warten",
     "RESET_WEAPONS": "Waffen zurücksetzen",
     "RESET_WEAPONS_DESC": "Setzt deine Waffenausstattung auf Voreinstellung zurück.",
     "BACKEND_LOOPED_HUD_TRANSITION_STATE_WAIT_FOR_TRANSITION_SESSION_TO_SETUP": "Warten auf die Einrichtung der Übergangssitzung",
