@@ -432,6 +432,7 @@
   "DASHBOARD": "Dashboard",
   "DATA_HASHES": "Data Hashes",
   "DEATHMATCH": "Deathmatch",
+  "DEBUG_LOG_HTTP_START_REQUESTS": "Log HTTP Start Requests",
   "DEBUG_LOG_METRICS": "Log Metrics",
   "DEBUG_LOG_NATIVE_SCRIPT_HOOKS": "Native Script Hooks",
   "DEBUG_LOG_SCRIPT_EVENT": "Enable Script Event Logging",
